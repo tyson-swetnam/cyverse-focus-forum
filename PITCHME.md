@@ -134,4 +134,4 @@ Develop tools
 
 +++
 
-![docker](assets/imagery/horizontal_large.png&size=50%) Docker containers
+Docker Containers ![docker](assets/imagery/horizontal_large.png){:height="36px" width="36px"} 
