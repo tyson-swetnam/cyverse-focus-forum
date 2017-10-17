@@ -1,3 +1,4 @@
 logo: assets/imagery/atmo.png
 # background: assets/imagery/globe.png
 background-size: cover
+theme: beige
