@@ -134,4 +134,4 @@ Develop tools
 
 +++
 
-![docker](assets/imagery/horizontal_large) Docker containers
+![docker](assets/imagery/horizontal_large.png) Docker containers
