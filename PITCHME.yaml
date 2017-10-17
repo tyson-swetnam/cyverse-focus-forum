@@ -1,4 +1,4 @@
 logo: assets/imagery/cyverse_rgb_150px.png
-background: assets/imagery/merged.png
+# background: assets/imagery/merged.png
 background-size: cover
-theme: night
+theme: sky
