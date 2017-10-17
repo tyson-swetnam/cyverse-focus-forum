@@ -4,9 +4,11 @@ horizontal: ---
 vertical: +++
 -->
 
----?image=assets/images/merged.png
+---?image=assets/imagery/merged.png
 
 ## LEVERAGING CYVERSE FOR LARGE-SCALE SPATIAL ANALYSIS
+
++++
 
 ### October 27, 2017
 ### Tyson Lee Swetnam
@@ -44,7 +46,7 @@ Computing power and storage capacity are advancing at exponential rate
 
 +++
 
-![Logo](https://commons.wikimedia.org/wiki/File:Moore%27s_Law_over_120_Years.png#/media/File:Moore%27s_Law_over_120_Years.png)
+![Logo](assets/imagery/Moore's_Law_over_120_Years.png)
 
 Moore's law over 120 years - note last several years are dominated by GPU
 
