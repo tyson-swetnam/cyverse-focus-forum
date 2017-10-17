@@ -20,6 +20,12 @@ github: tyson-swetnam
 
 ### What is CyVerse?
 
+#VSLIDE
+
+* Cyberinfrastructure
+* Training
+* Research
+
 #HSLIDE
 
 ### What does 'large spatial data' really mean in an era of big data?
