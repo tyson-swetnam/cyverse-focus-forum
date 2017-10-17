@@ -1,4 +1,3 @@
-logo: https://github.com/tyson-swetnam/cyverse-focus-forum/blob/master/assets/imagery/cyverse_rgb.png
-theme: moon
-background: https://github.com/tyson-swetnam/cyverse-focus-forum/blob/master/assets/imagery/globe.png
+logo: assets/imagery/cyverse_rgb.png
+background: assets/imagery/globe.png
 background-size: cover
