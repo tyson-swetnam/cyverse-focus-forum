@@ -134,5 +134,5 @@ Develop tools
 
 +++
 
-![docker](assets/imagery/horizontal_large.png)
+![docker|200x100,20%](assets/imagery/horizontal_large.png)
 
