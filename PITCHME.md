@@ -134,6 +134,5 @@ Develop tools
 
 +++
 
-Docker Containers ![docker](assets/imagery/horizontal_large.png)
+Docker Containers ![docker|20%](assets/imagery/horizontal_large.png)
 
-Docker Containers <img src="https://github.com/tyson-swetnam/cyverse-focus-forum/blob/master/assets/imagery/horizontal_large.png" width="50%" height="50%">
