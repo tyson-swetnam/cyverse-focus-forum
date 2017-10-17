@@ -134,4 +134,6 @@ Develop tools
 
 +++
 
-Docker Containers ![docker](assets/imagery/horizontal_large.png?v=4&s=200)
+Docker Containers ![docker](assets/imagery/horizontal_large.png)
+
+Docker Containers <img src="assets/imagery/horizontal_large.png" width="100" height="100">
