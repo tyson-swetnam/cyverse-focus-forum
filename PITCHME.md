@@ -22,17 +22,17 @@ tswetnam@cyverse.org
 
 github: tyson-swetnam
 
-+++
+---
 
 ### What is CyVerse?
 
----
++++
 
 * Cyberinfrastructure
 * Training
 * Research
 
-+++
+---
 
 ### What does 'large spatial data' really mean in an era of big data?
 
@@ -43,6 +43,10 @@ MB? Gb? Pb? Tb? Pb? Eb?
 ---
 
 ### The Research Object
+
++++
+
+Open Science Pathways
 
 ---
 
