@@ -34,7 +34,7 @@ github: tyson-swetnam
 
 ---
 
-### What does 'large spatial data' really mean in an era of big data?
+### What does 'large-scale spatial data' really mean in the era of _big data_?
 
 +++
 
@@ -46,10 +46,7 @@ Computing power and storage capacity are advancing at exponential rate
 
 +++
 
-![Logo](assets/imagery/Moore's_Law_over_120_Years.png)
-
-Moore's law over 120 years - note last several years are dominated by GPU
-
+[![Logo](assets/imagery/Moore's_Law_over_120_Years.png)](https://en.wikipedia.org/wiki/Moore%27s_law) Moore's law over 120 years - note last several years are dominated by GPU
 Source: Wikipedia
 
 ---
