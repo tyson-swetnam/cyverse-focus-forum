@@ -1,4 +1,4 @@
-logo: assets/imagery/atmo.png
-# background: assets/imagery/globe.png
+logo: assets/imagery/cyverse_rgb_150px.png
+background: assets/imagery/merged.png
 background-size: cover
-theme: beige
+theme: night
