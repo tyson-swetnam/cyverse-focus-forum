@@ -134,5 +134,5 @@ Develop tools
 
 +++
 
-Docker Containers ![docker|20%](assets/imagery/horizontal_large.png)
+![docker](assets/imagery/horizontal_large.png)
 
