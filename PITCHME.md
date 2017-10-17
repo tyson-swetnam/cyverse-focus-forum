@@ -4,7 +4,7 @@ horizontal: ---
 vertical: +++
 -->
 
----?image=assets/imagery/merged.png
+---
 
 ## LEVERAGING CYVERSE FOR LARGE-SCALE SPATIAL ANALYSIS
 
