@@ -56,7 +56,22 @@ Source: Wikipedia
 
 +++
 
-Open Science Pathways
+A method for identification, aggregation, and exchange of scholarly information
+
++++
+
+- Digital identity: DOI, ORCID
+- Data aggregation: discoverable, reusable
+- Annotation & Provenance: METADATA!
+
++++
+
+CyVerse covers the entire life cycle of the Research Object:
+
+- Creation
+- Analysis
+- Publishing
+- Archival
 
 ---
 
@@ -100,3 +115,21 @@ Atmosphere proved to be very popular...
 - Larger infrastructure
   - co-located at Texas Advanced Computing Center (TACC) and Indiana University (IU)
 - instances up to 44 CPU, 120GB RAM  
+
+---
+
+### Data Commons
+
++++
+
+Recieve a DOI
+
+---
+
+### Discovery Environment
+
++++
+
+Develop tools
+
++++
