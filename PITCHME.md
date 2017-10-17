@@ -44,7 +44,7 @@ github: tyson-swetnam
 
 Computing power and storage capacity are advancing at exponential rate
 
----?image=cyverse-focus-forum/assets/imagery/Moores_Law_over_120_Years.png
++++?image=assets/imagery/Moores_Law_over_120_Years.png
 
 Moore's law over 120 years - note last several years are dominated by GPU
 
