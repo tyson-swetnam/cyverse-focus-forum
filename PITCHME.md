@@ -1,4 +1,10 @@
-#HSLIDE
+<!--
+Slide delimiters are given by:
+horizontal: ---
+vertical: +++
+-->
+
+---
 
 ## LEVERAGING CYVERSE FOR LARGE-SCALE SPATIAL ANALYSIS
 
@@ -8,7 +14,7 @@
 ### Tyson Lee Swetnam
 ### CyVerse Science Informatician
 
-#VSLIDE?image=/assets/images/globe.png
++++?image=/assets/images/globe.png
 
 ### Contact Info
 
@@ -16,16 +22,35 @@ tswetnam@cyverse.org
 
 github: tyson-swetnam
 
-#HSLIDE
++++
 
 ### What is CyVerse?
 
-#VSLIDE
+---
 
 * Cyberinfrastructure
 * Training
 * Research
 
-#HSLIDE
++++
 
 ### What does 'large spatial data' really mean in an era of big data?
+
++++
+
+MB? Gb? Pb? Tb? Pb? Eb?
+
+---
+
+### The Research Object
+
+---
+
+### DataStore
+
++++
+
+* Graphical User Interface (GUI) via the Discovery Environment
+* Multi-threaded file transfer (iRODS)
+* Mountable as a local file directory via FUSE
+* Extendable API for developers via _*Agave*_
