@@ -9,3 +9,16 @@
 ### CyVerse Science Informatician
 
 #VSLIDE?image=assets/images/globe.png
+
+### Contact Info
+
+tswetnam@cyverse.org
+github: tyson-swetnam
+
+#HSLIDE
+
+### What is CyVerse?
+
+#HSLIDE
+
+### What does 'large spatial data' really mean in an era of big data?
