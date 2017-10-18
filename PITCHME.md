@@ -29,11 +29,11 @@ twitter: tswetnam
 
 +++
 
-### Vision: Transforming science through data driven discovery
+#### Vision: Transforming science through data driven discovery
 
 +++
 
-### Mission: to design, deploy, and expand a national cyberinfrastructure for life sciences research, and to train scientists in its use.
+#### Mission: to design, deploy, and expand a national cyberinfrastructure for life sciences research, and to train scientists in its use.
 
 +++
 
@@ -57,9 +57,25 @@ Computing power and storage capacity are advancing at exponential rate
 
 +++?image=assets/imagery/Moores_Law_over_120_Years.png&size=auto
 
-Moore's law over 120 years 
-note: last several years are dominated by GPU
-Source: Wikipedia
+Moore's law over last 120 years
+
++++
+
+There are many levels of spatial data user...
+
+- In this talk I'll cover a few of these depending upon need
+
++++
+
+* New users
+  * Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
+  * learning spatial analyses
+  
+* Experienced users
+  * scaling workflows beyond the laptop / desktop on to HPC
+  
+* Power users
+  * integrating global and national datasets across HPC environments
 
 ---
 
@@ -181,4 +197,35 @@ Develop tools
 +++
 
 ![docker|200x100,20%](assets/imagery/horizontal_large.png)
+
+---
+
+### Geographic Information Systems
+
++++
+
+The majority of data (59%) include a spatial component or are themselves inherently spatial.
+
++++
+
+But first, a bit of history...
+
++++
+
+Environmental Systems Research Institute (ESRI), est. 1969
+
+Geographic Resources Analysis Support System (GRASS), est. 1982
+
++++
+
+
+
++++
+
+---
+
+#### Where do I get started, if I don't know where to start?
+
+The Carpentries
+
 
