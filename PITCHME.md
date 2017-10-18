@@ -24,8 +24,8 @@ twitter: tswetnam
 
 ---
 
-### What is CyVerse? 
-![cyverse](assets/imagery/cyverse_logo_150px.png, http://cyverse.org)
+### What is [CyVerse](http://cyverse.org)? 
+![cyverse](assets/imagery/cyverse_logo_150px.png)
 
 +++
 
@@ -173,12 +173,12 @@ Atmosphere proved to be very popular...
 
 ### [Jetstream](https://use.jetstream-cloud.org)
 
-[<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg">](https://use.jetstream-cloud.org)
+![<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg">](https://use.jetstream-cloud.org)
 
 
 +++
 
-[![Jetstream](assets/imagery/Jetstream_logo_hi_res_cropped.jpg)](https://use.jetstream-cloud.org)
+![Jetstream](assets/imagery/Jetstream_logo_hi_res_cropped.jpg)
 
 - Larger infrastructure
   - co-located at Texas Advanced Computing Center (TACC) and Indiana University (IU)
@@ -189,7 +189,7 @@ Atmosphere proved to be very popular...
 ---
 
 ### [Data Commons](https://dc.cyverse.org)
-<img src="assets/imagery/DataCommons_Blue.png" width="150">https://datacommons.cyverse.org<a>
+<img src="assets/imagery/DataCommons_Blue.png" width="150">
 
 +++
 
@@ -199,7 +199,6 @@ Recieve a DOI
 
 ### [Discovery Environment](https://de.cyverse.org] 
 ![de](assets/imagery/Discovery_blue.png)
-
 
 +++
 
