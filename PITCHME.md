@@ -270,7 +270,7 @@ Done!
 ---
 
 ## [Bisque](https://bisque.cyverse.org)
-~[bisque](assets/imagery/bisQue_Blue.png)
+![bisque](assets/imagery/bisQue_Blue.png)
 
 +++
 
