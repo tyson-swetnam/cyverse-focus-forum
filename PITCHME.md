@@ -173,9 +173,9 @@ Atmosphere proved to be very popular...
 
 ...so they built
 
-#### [Jetstream](https://use.jetstream-cloud.org)
+### [Jetstream](https://use.jetstream-cloud.org)
 
-<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width 80>
+<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width="80">
 
 +++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
 
@@ -200,7 +200,7 @@ Atmosphere proved to be very popular...
 
 ---
 
-### [Discovery Environment](https://de.cyverse.org] 
+### [Discovery Environment](https://de.cyverse.org)
 ![de](assets/imagery/Discovery_blue.png)
 
 +++
