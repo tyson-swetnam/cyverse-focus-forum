@@ -175,16 +175,16 @@ Atmosphere proved to be very popular...
 
 #### [Jetstream](https://use.jetstream-cloud.org)
 
-<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width 300>
-![Jetstream](assets/imagery/Jetstream_logo_hi_res_cropped.jpg)
+<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width 80>
 
 +++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
 
 +++
 
-- Larger infrastructure
-  - co-located at Texas Advanced Computing Center (TACC) and Indiana University (IU)
-- instances up to 44 CPU, 120GB RAM  
+- co-located at Texas Advanced Computing Center (TACC) and Indiana University (IU)
+- launch dozens of instances 
+- sizes from 1 core 2GB RAM, up to 44 CPU, 120GB RAM
+- Request necessary storage size
 
 ---
 
