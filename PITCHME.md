@@ -114,6 +114,7 @@ Atmosphere proved to be very popular...
   - co-located at Texas Advanced Computing Center (TACC) and Indiana University (IU)
 - instances up to 44 CPU, 120GB RAM  
 
++++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
 ---
 
 ### Data Commons
