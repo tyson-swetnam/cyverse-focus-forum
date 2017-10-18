@@ -70,10 +70,14 @@ There are many levels of spatial data user...
 * New users
   * Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
   * learning spatial analyses
-  
+
++++
+
 * Experienced users
   * scaling workflows beyond the laptop / desktop on to HPC
-  
+
++++
+
 * Power users
   * integrating global and national datasets across HPC environments
 
