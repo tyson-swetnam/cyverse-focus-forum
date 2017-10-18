@@ -8,9 +8,9 @@ vertical: +++
 
 +++
 
-### October 27, 2017
-### Tyson Lee Swetnam
-### CyVerse Science Informatician
+#### October 27, 2017
+#### Tyson Lee Swetnam
+#### CyVerse Science Informatician
 
 +++
 
@@ -20,6 +20,8 @@ tswetnam@cyverse.org
 
 github: tyson-swetnam
 
+twitter: tswetnam
+
 ---
 
 ### What is CyVerse? 
@@ -27,9 +29,19 @@ github: tyson-swetnam
 
 +++
 
+### Vision: Transforming science through data driven discovery
+
++++
+
+### Mission: to design, deploy, and expand a national cyberinfrastructure for life sciences research, and to train scientists in its use.
+
++++
+
 - Cyberinfrastructure
 - Training
 - Research
+
++++
 
 ---
 
@@ -89,7 +101,7 @@ Data scientists need a place to work...
 - work in preferred environment, languages, and libraries
 - computational notebooks written in Python, R, Spark, etc...
 
-++++
++++
 
 - Jupyter Lab / Hub
 - R / RStudio-Server
@@ -109,8 +121,8 @@ Data scientists need a place to work...
 +++
 
 - All new users receive 100GB 
-- Increase to 10TB upon request.
-- Increases to +100TB upon written request and executive review.
+- Increase to 10TB via portal request.
+- +10TB available upon written request + executive review.
 
 ---
 
