@@ -22,7 +22,7 @@ github: tyson-swetnam
 
 ---
 
-### What is CyVerse?
+### What is CyVerse? ![cyverse](assets/imagery/cyverse_logo_150px.png)
 
 +++
 
@@ -73,7 +73,7 @@ CyVerse covers the entire life cycle of the Research Object:
 
 ---
 
-### DataStore
+### DataStore ![ds](assets/imagery/DataStore_blue.png)
 
 +++
 
@@ -84,7 +84,7 @@ CyVerse covers the entire life cycle of the Research Object:
 
 ---
 
-### Atmosphere
+### Atmosphere ![atmo](assets/imagery/Atmosphere_Blue.png)
 
 +++
 
@@ -108,7 +108,7 @@ Atmosphere proved to be very popular...
 
 +++
 
-### Jetstream
+### Jetstream 
 
 - Larger infrastructure
   - co-located at Texas Advanced Computing Center (TACC) and Indiana University (IU)
@@ -117,7 +117,7 @@ Atmosphere proved to be very popular...
 +++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
 ---
 
-### Data Commons
+### Data Commons ![dc](assets/imagery/DataCommons_Blue.png)
 
 +++
 
@@ -125,7 +125,7 @@ Recieve a DOI
 
 ---
 
-### Discovery Environment
+### Discovery Environment ![de](assets/imagery/Discovery_blue.png)
 
 +++
 
