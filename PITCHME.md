@@ -171,20 +171,20 @@ Atmosphere proved to be very popular...
 
 +++
 
-### [Jetstream](https://use.jetstream-cloud.org)
+...so they built
 
-![<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg">](https://use.jetstream-cloud.org)
+#### [Jetstream](https://use.jetstream-cloud.org)
 
+<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width 300>
+![Jetstream](assets/imagery/Jetstream_logo_hi_res_cropped.jpg)
+
++++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
 
 +++
-
-![Jetstream](assets/imagery/Jetstream_logo_hi_res_cropped.jpg)
 
 - Larger infrastructure
   - co-located at Texas Advanced Computing Center (TACC) and Indiana University (IU)
 - instances up to 44 CPU, 120GB RAM  
-
-+++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
 
 ---
 
@@ -193,7 +193,10 @@ Atmosphere proved to be very popular...
 
 +++
 
-Recieve a DOI
+- Publish your notebooks 
+- datasets
+ - Recieve a DOI
+ - Searchable
 
 ---
 
@@ -206,7 +209,8 @@ Develop tools
 
 +++
 
-![docker|200x100,20%](assets/imagery/horizontal_large.png)
+Use Docker <img src="assets/imagery/horizontal_large.png" width 100>
+
 
 ---
 
