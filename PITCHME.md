@@ -146,11 +146,8 @@ Data scientists need a place to work...
 
 ---
 
-### <a href="Atmosphere" target="_blank">https://cyverse.org/atmosphere</a>
-
+### [Atmosphere](https://cyverse.org/atmosphere)
 ![atmo](assets/imagery/Atmosphere_Blue.png)
-<img src="assets/imagery/Atmosphere_Blue.png" width="150">https://atmo.cyverse.org<a>
-
 
 +++
 
@@ -174,8 +171,14 @@ Atmosphere proved to be very popular...
 
 +++
 
-### <a href="Jetstream" target="_blank">https://use.jetstream-cloud.org</a>
+### [Jetstream](https://use.jetstream-cloud.org)
 
+[<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg">](https://use.jetstream-cloud.org)
+
+
++++
+
+[![Jetstream](assets/imagery/Jetstream_logo_hi_res_cropped.jpg)](https://use.jetstream-cloud.org)
 
 - Larger infrastructure
   - co-located at Texas Advanced Computing Center (TACC) and Indiana University (IU)
@@ -185,7 +188,7 @@ Atmosphere proved to be very popular...
 
 ---
 
-### Data Commons 
+### [Data Commons](https://dc.cyverse.org)
 <img src="assets/imagery/DataCommons_Blue.png" width="150">https://datacommons.cyverse.org<a>
 
 +++
@@ -194,7 +197,7 @@ Recieve a DOI
 
 ---
 
-### Discovery Environment 
+### [Discovery Environment](https://de.cyverse.org] 
 ![de](assets/imagery/Discovery_blue.png)
 
 
