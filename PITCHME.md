@@ -22,9 +22,8 @@ github: tyson-swetnam
 
 ---
 
-### What is CyVerse? ![cyverse][cyverse]
-
-[cyverse](assets/imagery/cyverse_logo_150px.png)
+### What is CyVerse? 
+![cyverse](assets/imagery/cyverse_logo_150px.png)
 
 +++
 
@@ -75,9 +74,8 @@ CyVerse covers the entire life cycle of the Research Object:
 
 ---
 
-### DataStore ![ds][ds]
-
-[ds](assets/imagery/DataStore_blue.png)
+### DataStore 
+![ds](assets/imagery/DataStore_blue.png)
 
 +++
 
@@ -88,9 +86,8 @@ CyVerse covers the entire life cycle of the Research Object:
 
 ---
 
-### Atmosphere ![atmo][atmo]
-
-[atmo](assets/imagery/Atmosphere_Blue.png)
+### Atmosphere 
+![atmo](assets/imagery/Atmosphere_Blue.png)
 
 +++
 
@@ -124,9 +121,8 @@ Atmosphere proved to be very popular...
 
 ---
 
-### Data Commons ![dc][dc]
-
-[dc](assets/imagery/DataCommons_Blue.png)
+### Data Commons 
+![dc](assets/imagery/DataCommons_Blue.png)
 
 +++
 
@@ -134,9 +130,8 @@ Recieve a DOI
 
 ---
 
-### Discovery Environment ![de][de]
-
-[de](assets/imagery/Discovery_blue.png)
+### Discovery Environment 
+![de](assets/imagery/Discovery_blue.png)
 
 
 +++
