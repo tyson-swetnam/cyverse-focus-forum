@@ -175,7 +175,7 @@ Atmosphere proved to be very popular...
 
 ### [Jetstream](https://use.jetstream-cloud.org)
 
-<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width="80">
+<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width="200">
 
 +++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
 
@@ -288,3 +288,36 @@ BisQue is an image analysis platform
 
 - Machine Learning
 - Structure from Motion
+
+---
+
+### using Licensed software with CyVerse
+
++++
+
+ArcGIS is the most widely used GIS software in the US
+
++++
+
+ArcGIS Portal 10.5 runs in Linux
+- install on Atmosphere / Jetstream instances using Chef
+- use your own license keys
+- integrate with Project Jupyter to run ArcPy
+
+--- 
+
+### Containers
+
+Docker
+
+Docker Hub
+
++++
+
+Singularity
+![logo](http://singularity.lbl.gov/images/logo/logo.svg)
+
+Singularity Hub
+
++++
+
