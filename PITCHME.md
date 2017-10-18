@@ -25,7 +25,7 @@ twitter: tswetnam
 ---
 
 ### What is CyVerse? 
-![cyverse](assets/imagery/cyverse_logo_150px.png)
+![cyverse](assets/imagery/cyverse_logo_150px.png, http://cyverse.org)
 
 +++
 
@@ -49,7 +49,7 @@ twitter: tswetnam
 
 +++
 
-*Mb? Gb? Pb? Tb? Pb? Eb?*
+*Mb? Gb? Tb? Pb? Eb?*
 
 +++
 
@@ -146,8 +146,11 @@ Data scientists need a place to work...
 
 ---
 
-### Atmosphere 
+### <a href="Atmosphere" target="_blank">https://cyverse.org/atmosphere</a>
+
 ![atmo](assets/imagery/Atmosphere_Blue.png)
+<img src="assets/imagery/Atmosphere_Blue.png" width="150">https://atmo.cyverse.org<a>
+
 
 +++
 
@@ -171,7 +174,8 @@ Atmosphere proved to be very popular...
 
 +++
 
-### Jetstream 
+### <a href="Jetstream" target="_blank">https://use.jetstream-cloud.org</a>
+
 
 - Larger infrastructure
   - co-located at Texas Advanced Computing Center (TACC) and Indiana University (IU)
@@ -182,7 +186,7 @@ Atmosphere proved to be very popular...
 ---
 
 ### Data Commons 
-<img src="assets/imagery/DataCommons_Blue.png" width="150">
+<img src="assets/imagery/DataCommons_Blue.png" width="150">https://datacommons.cyverse.org<a>
 
 +++
 
