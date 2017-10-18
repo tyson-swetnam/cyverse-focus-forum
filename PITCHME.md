@@ -74,6 +74,28 @@ CyVerse covers the entire life cycle of the Research Object:
 
 ---
 
+### Data Science Workbenches
+
++++
+
+Data scientists need a place to work...
+
++++
+
+#### data + compute + algorithm
+
++++
+
+- work in preferred environment, languages, and libraries
+- computational notebooks written in Python, R, Spark, etc...
+
+++++
+
+- Jupyter Lab / Hub
+- R / RStudio-Server
+
+---
+
 ### DataStore 
 ![ds](assets/imagery/DataStore_blue.png)
 
@@ -83,6 +105,12 @@ CyVerse covers the entire life cycle of the Research Object:
 - Multi-threaded file transfer (iRODS)
 - Mountable as a local file directory via FUSE
 - Extendable API for developers via _*Agave*_
+
++++
+
+- All new users receive 100GB 
+- Increase to 10TB upon request.
+- Increases to +100TB upon written request and executive review.
 
 ---
 
