@@ -315,7 +315,8 @@ Docker Hub
 +++
 
 Singularity
-![logo](http://singularity.lbl.gov/images/logo/logo.svg)
+
+<img src="http://singularity.lbl.gov/images/logo/logo.svg" width="150">
 
 Singularity Hub
 
