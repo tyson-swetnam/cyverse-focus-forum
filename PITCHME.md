@@ -122,7 +122,7 @@ Atmosphere proved to be very popular...
 ---
 
 ### Data Commons 
-<img src="assets/imagery/DataCommons_Blue.png" width="100">
+<img src="assets/imagery/DataCommons_Blue.png" width="25">
 
 +++
 
