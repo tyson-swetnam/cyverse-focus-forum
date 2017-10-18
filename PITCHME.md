@@ -242,4 +242,24 @@ Geographic Resources Analysis Support System (GRASS), est. 1982
 
 The Carpentries
 
+---
+
+@title[EZ Install]
+
+### <span style="color: #e49436">EZ Install</span>
+<br>
+
+```shell
+$ ezs
+$ ezd
+$ ezj -R -3
+
+Done!
+
+```
+
+@[1](Install latest version of Singularity.)
+@[2](Install latest version of Docker)
+@[3](Install Anaconda and Jupyter Notebooks w/ Python3 and R Kernel)
+@[5](Start doing work!)
 
