@@ -4,7 +4,7 @@ horizontal: ---
 vertical: +++
 -->
 
-@Title[LEVERAGING CYVERSE FOR LARGE-SCALE SPATIAL ANALYSIS]
+##LEVERAGING CYVERSE FOR LARGE-SCALE SPATIAL ANALYSIS
 
 +++
 
@@ -22,7 +22,7 @@ github: tyson-swetnam
 
 ---
 
-### What is CyVerse? ![cyverse](assets/imagery/cyverse_logo_150px.png)
+### What is CyVerse? ![cyverse|100x100,20%](assets/imagery/cyverse_logo_150px.png)
 
 +++
 
@@ -73,7 +73,7 @@ CyVerse covers the entire life cycle of the Research Object:
 
 ---
 
-### DataStore ![ds](assets/imagery/DataStore_blue.png)
+### DataStore ![ds|100x100,20%](assets/imagery/DataStore_blue.png)
 
 +++
 
@@ -84,7 +84,7 @@ CyVerse covers the entire life cycle of the Research Object:
 
 ---
 
-### Atmosphere ![atmo](assets/imagery/Atmosphere_Blue.png)
+### Atmosphere ![atmo|100x100,20%](assets/imagery/Atmosphere_Blue.png)
 
 +++
 
@@ -115,9 +115,10 @@ Atmosphere proved to be very popular...
 - instances up to 44 CPU, 120GB RAM  
 
 +++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
+
 ---
 
-### Data Commons ![dc](assets/imagery/DataCommons_Blue.png)
+### Data Commons ![dc|100x100,20%](assets/imagery/DataCommons_Blue.png)
 
 +++
 
@@ -125,7 +126,7 @@ Recieve a DOI
 
 ---
 
-### Discovery Environment ![de](assets/imagery/Discovery_blue.png)
+### Discovery Environment ![de|100x100,20%](assets/imagery/Discovery_blue.png)
 
 +++
 
