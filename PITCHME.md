@@ -244,6 +244,10 @@ The Carpentries
 
 ---
 
+#### Setting up Atmosphere instances as Data Science Workbenches
+
+---
+
 @title[EZ Install]
 
 ### <span style="color: #e49436">EZ Install</span>
@@ -263,3 +267,24 @@ Done!
 @[3](Install Anaconda and Jupyter Notebooks w/ Python3 and R Kernel)
 @[5](Start doing work!)
 
+---
+
+## [Bisque](https://bisque.cyverse.org)
+~[bisque](assets/imagery/bisQue_Blue.png)
+
++++
+
+BisQue is an image analysis platform 
+
++++
+
+- segmentation
+- annotation
+- metadata tagging
+
++++
+
+#### Coming soon
+
+- Machine Learning
+- Structure from Motion
