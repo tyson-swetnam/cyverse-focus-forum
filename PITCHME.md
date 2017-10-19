@@ -4,8 +4,7 @@ horizontal: ---
 vertical: +++
 -->
 
-## LEVERAGING CYVERSE FOR LARGE-SCALE SPATIAL ANALYSIS
-
+## Leveraging <span class="primary">CyVerse</span> for large scale spatial analysis
 +++
 
 #### October 27, 2017
