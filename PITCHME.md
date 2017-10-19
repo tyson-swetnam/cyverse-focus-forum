@@ -289,6 +289,22 @@ BisQue is an image analysis platform
 
 ---
 
+### Containers
+
+Docker
+
+Docker Hub
+
++++
+
+Singularity
+
+<img src="http://singularity.lbl.gov/images/logo/logo.svg" width="150">
+
+Singularity Hub
+
+---
+
 ### using Licensed software with CyVerse
 
 +++
@@ -324,19 +340,6 @@ Done!
 @[4](The Jupyter notebook should now be running on the localhost - change `localhost` out for the VM's IP address)
 @[5](Start doing work!)
 
-### Containers
+---
 
-Docker
-
-Docker Hub
-
-+++
-
-Singularity
-
-<img src="http://singularity.lbl.gov/images/logo/logo.svg" width="150">
-
-Singularity Hub
-
-+++
 
