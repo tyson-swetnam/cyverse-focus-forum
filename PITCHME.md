@@ -151,7 +151,7 @@ A workbench allows you to:
 
 +++
 
-<img src="assets/imagery/Rlogonew.png" width="200"> <img src="assets/imagery/RStudio-Logo-Blue-Gradient.png" width="300">
+<img src="assets/imagery/Rlogonew.png" width="200"> 
 
 ---
 
@@ -372,7 +372,7 @@ Done!
 
 ---
 
-# R
+<img src="assets/imagery/RStudio-Logo-Blue-Gradient.png" width="500">
 
 +++
 
