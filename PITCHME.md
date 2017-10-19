@@ -57,7 +57,7 @@ It doesn't exist without users driving new important science.
 
 Data are always increasing in volume
 
-<span style="font-family: Helvetica Neue; color:#FF0000">90%</span> of all data in human history were create in last 24 months
+<span style="font-family: Helvetica Neue; color:#FF0000">90%</span> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)
 
 +++
 
