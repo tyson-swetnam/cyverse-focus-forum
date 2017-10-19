@@ -55,19 +55,26 @@ It doesn't exist without users driving new important science.
 
 +++
 
+Data are always increasing in volume
+
+<span style="font-family: Helvetica Neue; color:#FF0000">90%</span> of all data in human history were create in last 24 months
+
++++
+
+So, what qualifies as big data?
+
 @[0](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#3685E3">Mb?</span>)
-@[1](Gb?)
-@[2](Tb?)
-@[3](Pb?)
-@[4](Eb?)
-@[5](data is just data)
+@[1](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000FF">Gb?</span>)
+@[2](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000A0">Tb?</span>)
+@[3](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#800080">Pb?</span>)
+@[4](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#00FF00">Eb?</span>)
+@[5](<span style="font-family: Helvetica Neue; font-size: 300%; font-weight: bold; color:#FF0000">data are just data</span>)
 
 +++
 
 Computing power and storage capacity are advancing at exponential rate
 
 +++?image=assets/imagery/Moores_Law_over_120_Years.png&size=contain
-
 
 <span style="font-family: Helvetica Neue; color:#3685E3">Moore's law over last 120 years</span> 
 
