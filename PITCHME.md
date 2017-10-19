@@ -40,9 +40,17 @@ twitter: tswetnam
 - Research
 - Training
 
++++
+
+- CyVerse is <span style="font-family: Helvetica Neue; color: #118224">_you_</span> and <span style="font-family: Helvetica Neue; color: #3685E3">_me_</span>.
+
+- CyVerse is what <span style="font-family: Helvetica Neue; font-weight: bold; color: #c7232e">_we_</span> make it 
+ - it doesn't exist without users driving new important science.
+
++++
 ---
 
-### What does <span style="font-family: Helvetica Neue; font-weight: bold; color: #3685E3">large-scale</span> really mean in the era of <span style="font-family: Helvetica Neue; font-weight: bold; color: #3685E3">_big data_</span>?
+### What does <span style="font-family: Helvetica Neue; font-weight: bold; color: #118224">large-scale</span> really mean in the era of <span style="font-family: Helvetica Neue; color: #3685E3">_big data_</span>?
 
 +++
 
