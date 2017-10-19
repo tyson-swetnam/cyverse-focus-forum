@@ -304,6 +304,26 @@ ArcGIS Portal 10.5 runs in Linux
 
 --- 
 
+@title[ArcGIS Jupyter Notebook with Docker]
+
+### <span style="color: #e49436">Docker + Jupyter + ArcPy</span>
+<br>
+
+```shell
+$ ezd
+$ usermod -aG docker $USER
+$ docker pull esridocker/arcgis-api-python-notebook
+
+Done!
+
+```
+
+@[1](Install latest version of Docker using `EZ` installation)
+@[2](Add yourself to the Docker group on your VM so you can run without `sudo`)
+@[3](Pull the ArcGIS Jupyter Docker Container)
+@[4](The Jupyter notebook should now be running on the localhost - change `localhost` out for the VM's IP address)
+@[5](Start doing work!)
+
 ### Containers
 
 Docker
