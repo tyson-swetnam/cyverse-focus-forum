@@ -309,14 +309,16 @@ Singularity Hub
 
 +++
 
-ArcGIS is the most widely used GIS software in the US
+ArcGIS is the most widely used GIS software in the USA
 
 +++
 
-ArcGIS Portal 10.5 runs in Linux
+[ArcGIS Portal 10.5](http://server.arcgis.com/en/portal/latest/install/linux/welcome-to-the-portal-for-arcgis-installation-guide.htm) runs in Linux
+
 - install on Atmosphere / Jetstream instances using Chef
-- use your own license keys
-- integrate with Project Jupyter to run ArcPy
+ - must use license keys issued via your institution
+- Integrated with Docker and [Project Jupyter](https://hub.docker.com/r/esridocker/arcgis-api-python-notebook/) 
+ - run notebooks with ArcPy and the ArcGIS API to do big data applications 
 
 --- 
 
