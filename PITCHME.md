@@ -76,7 +76,7 @@ Computing power and storage capacity are advancing at exponential rate
 
 +++?image=assets/imagery/Moores_Law_over_120_Years.png&size=contain
 
-<span style="font-family: Helvetica Neue; color:#3685E3">Moore's law over last 120 years</span> 
+<span style="font-family: Helvetica Neue; color:#3685E3"> last 5 are all GPUs </span> 
 
 +++
 
@@ -88,12 +88,13 @@ There are many types of spatial data user...
 
 New users
 - Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
-- Maybe just learning spatial analyses for the first time
+  - Maybe just learning spatial analyses for the first time
 
 +++
 
 Experienced users
 - Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud
+- Need to move significant amounts of data around networks
 
 +++
 
@@ -107,7 +108,9 @@ Power users
 
 +++
 
-A method for identification, aggregation, and exchange of scholarly information
+_What is a Research Object?_
+
+broadly, it is a method for identification, aggregation, and exchange of scholarly information
 
 +++
 
@@ -119,10 +122,10 @@ A method for identification, aggregation, and exchange of scholarly information
 
 CyVerse covers the entire life cycle of the Research Object:
 
-- Creation
-- Analysis
-- Publishing
-- Archival
+- Create
+- Analyze
+- Publish
+- Archive
 
 ---
 
@@ -138,12 +141,19 @@ Data scientists need a place to work...
 
 +++
 
+A workbench allows you to:
 - work in preferred environment, languages, and libraries
 - computational notebooks written in Python, R, Spark, etc...
 
 +++
 
+The most popular data scientist tools:
+
+![Python](Python_logo_and_wordmark.svg.png)
+<img src="assets/imagery/jupyter.png" width="200"> ![Hub](http://jupyter.org/assets/hublogo.svg)
 - Jupyter Lab / Hub
+
+![R](Rlogonew.png) ![rstudo](assets/imagery/RStudio-Logo-Blue-Gradient.png)
 - R / RStudio-Server
 
 ---
@@ -366,10 +376,6 @@ Done!
 ---
 
 # R
-
-+++
-
-![R](Rlogonew.png) ![rstudo](assets/imagery/RStudio-Logo-Blue-Gradient.png)
 
 +++
 
