@@ -37,10 +37,8 @@ twitter: tswetnam
 +++
 
 - Cyberinfrastructure
-- Training
 - Research
-
-+++
+- Training
 
 ---
 
