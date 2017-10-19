@@ -42,7 +42,7 @@ twitter: tswetnam
 
 ---
 
-### What does 'large-scale spatial data' really mean in the era of _big data_?
+### What does <span style="font-family: Helvetica Neue; font-weight: bold; color: #3685E3">large-scale spatial data</span> really mean in the era of </span>_big data_?</span>
 
 +++
 
