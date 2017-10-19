@@ -42,7 +42,7 @@ twitter: tswetnam
 
 ---
 
-### What does <span style="font-family: Helvetica Neue; font-weight: bold; color: #3685E3">large-scale spatial data</span> really mean in the era of </span>_big data_?</span>
+### What does <span style="font-family: Helvetica Neue; font-weight: bold; color: #3685E3">large-scale</span> really mean in the era of <span style="font-family: Helvetica Neue; font-weight: bold; color: #3685E3">_big data_</span>?
 
 +++
 
