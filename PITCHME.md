@@ -147,11 +147,11 @@ A workbench allows you to:
 
 +++
 
-<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="250"> <img src="http://jupyter.org/assets/hublogo.svg" width="200">
+<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="300"> <img src="http://jupyter.org/assets/hublogo.svg" width="200">
 
 +++
 
-<img src="assets/imagery/Rlogonew.png" width="200"> <img src="assets/imagery/RStudio-Logo-Blue-Gradient.png" width="200">
+<img src="assets/imagery/Rlogonew.png" width="200"> <img src="assets/imagery/RStudio-Logo-Blue-Gradient.png" width="300">
 
 ---
 
