@@ -365,4 +365,31 @@ Done!
 
 ---
 
+# R
+
++++
+
+![R](Rlogonew.png) ![rstudo](assets/imagery/RStudio-Logo-Blue-Gradient.png)
+
++++
+
+@title[RStudio-Server]
+
+### <span style="color: #e49436">R + RStudio-Server</span>
+<br>
+
+```shell
+$ git clone https://github.com/cyverse-gis/focus-forum.git
+$ cd focus-forum/atmo
+$ . install_rstudio.sh
+$ rstudio-server status
+Done!
+
+```
+
+@[1](Clone this Github Repository to the Virtual Machine)
+@[2](change directories to access the shell installation scripts)
+@[3](Run the script - this will take a while)
+@[4](The RStudio-Server should now be running, check to be sure)
+@[5](Start doing work!)
 
