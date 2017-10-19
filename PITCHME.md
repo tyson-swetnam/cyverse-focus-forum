@@ -54,7 +54,8 @@ Computing power and storage capacity are advancing at exponential rate
 
 +++?image=assets/imagery/Moores_Law_over_120_Years.png&size=auto
 
-Moore's law over last 120 years
+
+<span style="font-family: Helvetica Neue; font-weight: bold; color:#3685E3">Moore's law over last 120 years</span> 
 
 +++
 
