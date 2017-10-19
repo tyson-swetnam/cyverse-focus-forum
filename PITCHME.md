@@ -147,14 +147,13 @@ A workbench allows you to:
 
 +++
 
-The most popular data scientist tools:
+<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="200">
 
-![Python](Python_logo_and_wordmark.svg.png)
 <img src="assets/imagery/jupyter.png" width="200"> ![Hub](http://jupyter.org/assets/hublogo.svg)
-- Jupyter Lab / Hub
 
-![R](Rlogonew.png) ![rstudo](assets/imagery/RStudio-Logo-Blue-Gradient.png)
-- R / RStudio-Server
++++
+
+!<img src="assets/imagery/Rlogonew.png" width="200"> <img src="assets/imagery/RStudio-Logo-Blue-Gradient.png" width="200">
 
 ---
 
