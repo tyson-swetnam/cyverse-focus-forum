@@ -4,7 +4,7 @@ horizontal: ---
 vertical: +++
 -->
 
-## Leveraging <span class="primary">CyVerse</span> for large scale spatial analysis
+## Leveraging CyVerse for large scale spatial analysis
 +++
 
 #### October 27, 2017
@@ -28,7 +28,7 @@ twitter: tswetnam
 
 +++
 
-#### Vision: Transforming science through data driven discovery
+ <span class="primary">Vision:</span> Transforming science through data driven discovery
 
 +++
 
