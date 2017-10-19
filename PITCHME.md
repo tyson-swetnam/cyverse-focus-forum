@@ -42,10 +42,11 @@ twitter: tswetnam
 
 +++
 
-- CyVerse is <span style="font-family: Helvetica Neue; color: #118224">_you_</span> and <span style="font-family: Helvetica Neue; color: #3685E3">_me_</span>.
+CyVerse is <span style="font-family: Helvetica Neue; color: #118224">_you_</span> and <span style="font-family: Helvetica Neue; color: #3685E3">_me_</span>.
 
-- CyVerse is what <span style="font-family: Helvetica Neue; font-weight: bold; color: #c7232e">_we_</span> make it 
- - it doesn't exist without users driving new important science.
+CyVerse is what <span style="font-family: Helvetica Neue; font-weight: bold; color: #c7232e">_we_</span> make it 
+
+It doesn't exist without users driving new important science.
 
 +++
 ---
@@ -54,7 +55,14 @@ twitter: tswetnam
 
 +++
 
-*Mb? Gb? Tb? Pb? Eb?*
+<br>
+
+@[1](Mb?)
+@[2](Gb?)
+@[3](Tb?)
+@[4](Pb?)
+@[5](Eb?)
+@[6](data is just data)
 
 +++
 
@@ -63,29 +71,30 @@ Computing power and storage capacity are advancing at exponential rate
 +++?image=assets/imagery/Moores_Law_over_120_Years.png&size=contain
 
 
-<span style="font-family: Helvetica Neue; font-weight: bold; color:#3685E3">Moore's law over last 120 years</span> 
+<span style="font-family: Helvetica Neue; color:#3685E3">Moore's law over last 120 years</span> 
 
 +++
 
-There are many levels of spatial data user...
+There are many types of spatial data user...
 
-- In this talk I'll cover a few of these depending upon need
-
-+++
-
-* New users
-  * Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
-  * learning spatial analyses
+- In this talk I'll cover a few skill levels
 
 +++
 
-* Experienced users
-  * scaling workflows beyond the laptop / desktop on to HPC
+New users
+- Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
+- Maybe just learning spatial analyses for the first time
 
 +++
 
-* Power users
-  * integrating global and national datasets across HPC environments
+Experienced users
+- Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud
+
++++
+
+Power users
+- Interest in integrating global and national datasets across HPC environments for massively parallel computing
+
 
 ---
 
@@ -265,7 +274,6 @@ $ ezd
 $ ezj -R -3
 
 Done!
-
 ```
 
 @[1](Install latest version of Singularity.)
