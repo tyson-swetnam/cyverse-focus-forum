@@ -147,9 +147,7 @@ A workbench allows you to:
 
 +++
 
-<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="200">
-
-<img src="assets/imagery/jupyter.png" width="200"> ![Hub](http://jupyter.org/assets/hublogo.svg)
+<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="200"><img src="assets/imagery/jupyter.png" width="200"><img src="http://jupyter.org/assets/hublogo.svg" width="200">
 
 +++
 
