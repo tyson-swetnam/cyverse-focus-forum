@@ -28,11 +28,11 @@ twitter: tswetnam
 
 +++
 
-<span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff"><span color:##e49436">Vision:</span>Transforming science through data driven discovery</span>!
+<span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff"><span color:#e49436">Vision:</span> Transforming science through data driven discovery</span>
 
 +++
 
-#### Mission: to design, deploy, and expand a national cyberinfrastructure for life sciences research, and to train scientists in its use.
+<span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff"><span color:#e49436">Mission:</span> to design, deploy, and expand a national cyberinfrastructure for life sciences research, and to train scientists in its use</span>
 
 +++
 
