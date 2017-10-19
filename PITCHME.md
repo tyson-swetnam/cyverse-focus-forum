@@ -28,7 +28,7 @@ twitter: tswetnam
 
 +++
 
-<span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff"><span color:#e49436">Vision:</span> Transforming science through data driven discovery</span>
+<span style="font-family: Helvetica Neue; font-weight: bold; color:#3685E3">Vision:</span> Transforming science through data driven discovery</span>
 
 +++
 
