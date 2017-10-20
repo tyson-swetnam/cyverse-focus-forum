@@ -68,8 +68,8 @@ When <span style="font-family: Helvetica Neue; color: #118224">_you_</span> use 
 
 So, what qualifies as big data?
 
-@[0](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 150%; font-weight: bold; color:#3685E3">6</span></sup>?</span>)
-@[1](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte 10<sup>9</sup>? </span>)
+@[0](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 50%; font-weight: bold; color:#3685E3">6</span></sup>?</span>)
+@[1](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte 10<<sup><span style="font-family: Helvetica Neue; font-size: 50%; font-weight: bold; color:#0000FF">9</span></sup>?</span>)
 @[2](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000A0">Terabyte 10<sup>12</sup>?</span>)
 @[3](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#800080">Petabyte 10<sup>15</sup>?</span>)
 @[4](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#00FF00">Exabyte 10<sup>18</sup>?</span>)
