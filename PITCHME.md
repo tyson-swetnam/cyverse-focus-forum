@@ -176,7 +176,7 @@ A workbench allows you to:
 
 - All new users receive 100 GB 
 - Increase to 10 TB via portal request.
-- >10 TB available upon written request + executive review.
+- \>10 TB available upon written request + executive review.
 
 +++
 
