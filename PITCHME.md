@@ -167,16 +167,16 @@ A workbench allows you to:
 
 +++
 
-- Graphical User Interface (GUI) via the Discovery Environment
-- Multi-threaded file transfer (iRODS)
+- GUI via the [Discovery Environment](https://de.cyverse.org)
+- Multi-threaded file transfer ([iRODS](https://irods.org/))
 - Mountable as a local file directory via FUSE
 - Extendable API for developers via _*Agave*_
 
 +++
 
-- All new users receive 100GB 
-- Increase to 10TB via portal request.
-- +10TB available upon written request + executive review.
+- All new users receive 100 GB 
+- Increase to 10 TB via portal request.
+- >10 TB available upon written request + executive review.
 
 +++
 
@@ -352,7 +352,7 @@ Singularity Hub
 
 +++
 
-ArcGIS is the most widely used GIS software in the USA
+ArcGIS is the most widely used GIS software in the USA, ~40% of all users.
 
 +++
 
