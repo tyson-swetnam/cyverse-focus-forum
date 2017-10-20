@@ -97,14 +97,14 @@ There are many types of spatial data user...
 
 +++
 
-<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#FF0000">Experienced users</span>
+<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#0000A0"">Experienced users</span>
 - Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud
 - Need to move significant amounts of data around networks
 
 +++
 
 
-<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#FF0000">Power users</span>
+<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#800080">Power users</span>
 - Interest in integrating global and national datasets across HPC environments for massively parallel computing
 
 ---
