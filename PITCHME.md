@@ -44,20 +44,21 @@ twitter: tswetnam
 
 CyVerse is <span style="font-family: Helvetica Neue; color: #118224">_you_</span> and <span style="font-family: Helvetica Neue; color: #3685E3">_me_</span>.
 
-CyVerse is what <span style="font-family: Helvetica Neue; font-weight: bold; color: #c7232e">_we_</span> make it 
+CyVerse is what <span style="font-family: Helvetica Neue; font-weight: bold; color: #c7232e">_people_</span> make it.
 
-It doesn't exist without users driving new important science.
+It doesn't exist without users driving new and important science. 
 
 +++
+
+When <span style="font-family: Helvetica Neue; color: #118224">_you_</span> use CyVerse, develop new tools, workflows, and datasets they influence the body of science CyVerse embodies
+
 ---
 
 ### What does <span style="font-family: Helvetica Neue; font-weight: bold; color: #118224">large-scale</span> really mean in the era of <span style="font-family: Helvetica Neue; color: #3685E3">_big data_</span>?
 
 +++
-
-Data are always increasing in volume
-
-<span style="font-family: Helvetica Neue; color:#FF0000">90%</span> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)
+@[1](Data are always increasing in volume)
+@[2](<span style="font-family: Helvetica Neue; color:#FF0000">90%</span> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/))
 
 +++
 
