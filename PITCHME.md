@@ -58,8 +58,8 @@ When <span style="font-family: Helvetica Neue; color: #118224">_you_</span> use 
 
 +++
 
-@[1](<span style="font-family: Helvetica Neue; font-size: 250%">Data are always increasing in volume</span>)
-@[2](<span style="font-family: Helvetica Neue; color:#FF0000"</span> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/))
+@[1](<span style="font-family: Helvetica Neue; font-size: 250%; color:#3685E3">Data are always increasing in volume</span>)
+@[2](<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 250%; color:#FF0000"</span>90%<span style="font-family: Helvetica Neue; font-size: 250%"> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)</span>)
 
 +++
 
