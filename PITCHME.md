@@ -120,7 +120,7 @@ There are many types of spatial data user...
 +++
 
 The Research Object needs:
-- Digital identity: DOI, ORCID
+- Digital identity: DOI, [ORCID](http://orcid.org/)
 - Data aggregation: discoverable, reusable
 - Annotation & Provenance: METADATA!
 
@@ -215,8 +215,6 @@ Atmosphere proved to be very popular...
 
 ...so they built
 
-[*Jetstream*](https://use.jetstream-cloud.org)
-
 <img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width="500">
 
 +++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
@@ -232,6 +230,13 @@ Atmosphere proved to be very popular...
 
 ### [Data Commons](https://dc.cyverse.org)
 <img src="assets/imagery/DataCommons_Blue.png" width="150">
+
++++
+
+[DOI](https://www.doi.org/) is a Digital Object Identifier 
+[ARK](https://en.wikipedia.org/wiki/Archival_Resource_Key) is an Archival Resource Key.
+
+Both identifiers are issued by CyVerse through the California Digital Library's [EZID service](http://ezid.cdlib.org/).
 
 +++
 
@@ -270,7 +275,7 @@ Environmental Systems Research Institute (ESRI), est. 1969
 
 +++
 
-
+ESRI has come to dominate the GIS marketplace and is used widely by gov't and academia.
 +++
 
 Geographic Resources Analysis Support System (GRASS), est. 1982
@@ -279,7 +284,9 @@ Geographic Resources Analysis Support System (GRASS), est. 1982
 
 +++
 
+Which GIS platform is best?
 
+@[1](<span style="font-family: Helvetica Neue; font-size: 150%; font-weight: bold; color:#3685E3">They are both great - its not my job to decide for you.</span>)
 
 ---
 
@@ -409,7 +416,7 @@ Done!
 @[3](exit and restart terminal window)
 @[4](pull the Rocker/Geospatial Rstudio-Server from DockerHub)
 @[5](Run the Container on port `:8787`)
-@[7](Open the <IP address>:8787 in a new browser window)
+@[7](Open the IP and port number in a new browser window)
 
 ---
 
