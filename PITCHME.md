@@ -50,7 +50,7 @@ It doesn't exist without users driving new and important science.
 
 +++
 
-When <span style="font-family: Helvetica Neue; color: #118224">_you_</span> use CyVerse, develop new tools, workflows, and datasets they influence the body of science CyVerse embodies
+When <span style="font-family: Helvetica Neue; color: #118224">_you_</span> use CyVerse, develop new tools, workflows, and datasets they influence the science CyVerse embodies
 
 ---
 
