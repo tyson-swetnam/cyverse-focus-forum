@@ -71,7 +71,7 @@ So, what qualifies as big data?
 @[0](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#3685E3">6</span></sup>?</span>)
 @[1](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#0000FF">9</span></sup>?</span>)
 @[2](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000A0">Terabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#0000A0">12</span></sup>?</span>)
-@[3](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#800080">Petabyte 10</sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#800080"><sup>15</span>?</span>)
+@[3](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#800080">Petabyte 10</sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#800080">15</span></sup>?</span>)
 @[4](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#00FF00">Exabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#00FF00">18</span></sup>?</span>)
 @[5](<span style="font-family: Helvetica Neue; font-size: 300%; font-weight: bold; color:#FF0000">data are just data</span>)
 
