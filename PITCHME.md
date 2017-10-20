@@ -57,8 +57,9 @@ When <span style="font-family: Helvetica Neue; color: #118224">_you_</span> use 
 ### What does <span style="font-family: Helvetica Neue; font-weight: bold; color: #118224">large-scale</span> really mean in the era of <span style="font-family: Helvetica Neue; color: #3685E3">_big data_</span>?
 
 +++
-@[1](Data are always increasing in volume)
-@[2](<span style="font-family: Helvetica Neue; color:#FF0000">90%</span> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/))
+
+@[1](<span style="font-family: Helvetica Neue; font-size: 250%">Data are always increasing in volume</span>)
+@[2](<span style="font-family: Helvetica Neue; color:#FF0000"</span> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/))
 
 +++
 
