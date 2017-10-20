@@ -113,11 +113,9 @@ There are many types of spatial data user...
 
 +++
 
+<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 100%; color:#000000">_Okay, what is a Research Object?_</span>
 
-
-<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#FF0000">_Okay, what is a Research Object?_</span>
-
-@[0](<span style="font-family: Helvetica Neue; font-size: 125%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>
+@[1](<span style="font-family: Helvetica Neue; font-size: 100%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>)
 
 +++
 
