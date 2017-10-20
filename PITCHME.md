@@ -91,21 +91,21 @@ There are many types of spatial data user...
 
 +++
 
-New users
+<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#FF0000">New users</span>
 - Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
   - Maybe just learning spatial analyses for the first time
 
 +++
 
-Experienced users
+<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#FF0000">Experienced users</span>
 - Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud
 - Need to move significant amounts of data around networks
 
 +++
 
-Power users
-- Interest in integrating global and national datasets across HPC environments for massively parallel computing
 
+<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#FF0000">Power users</span>
+- Interest in integrating global and national datasets across HPC environments for massively parallel computing
 
 ---
 
@@ -113,12 +113,15 @@ Power users
 
 +++
 
-_What is a Research Object?_
 
-broadly, it is a method for identification, aggregation, and exchange of scholarly information
+
+<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#FF0000">_Okay, what is a Research Object?_</span>
+
+@[0](<span style="font-family: Helvetica Neue; font-size: 125%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>
 
 +++
 
+The Research Object needs:
 - Digital identity: DOI, ORCID
 - Data aggregation: discoverable, reusable
 - Annotation & Provenance: METADATA!
@@ -129,6 +132,7 @@ CyVerse covers the entire life cycle of the Research Object:
 
 - Create
 - Analyze
+- Annotate
 - Publish
 - Archive
 
@@ -142,7 +146,7 @@ Data scientists need a place to work...
 
 +++
 
-#### data + compute + algorithm
+### data + compute + algorithm
 
 +++
 
