@@ -44,9 +44,9 @@ twitter: tswetnam
 
 CyVerse is <span style="font-family: Helvetica Neue; color: #118224">_you_</span> and <span style="font-family: Helvetica Neue; color: #3685E3">_me_</span>.
 
-CyVerse is what <span style="font-family: Helvetica Neue; font-weight: bold; color: #c7232e">_people_</span> make it.
+CyVerse is enabled by the <span style="font-family: Helvetica Neue; font-weight: bold; color: #c7232e">_people_</span> 
 
-It doesn't exist without users driving new and important science. 
+It doesn't exist without users innovating new and important science within an ecosystem of interoperability.  
 
 +++
 
@@ -87,7 +87,7 @@ Computing power and storage capacity are advancing at exponential rate
 
 There are many types of spatial data user...
 
-- In this talk I'll cover a few skill levels
+In this talk I'll cover a few skill levels
 
 +++
 
@@ -113,9 +113,9 @@ There are many types of spatial data user...
 
 +++
 
-<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 100%; color:#000000">_Okay, what is a Research Object?_</span>
+<span style="font-weight: bold; font-size: 100%; color:#000000">_Okay, what is a Research Object?_</span>
 
-@[1](<span style="font-family: Helvetica Neue; font-size: 100%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>)
+@[1](<span style="font-size: 125%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>)
 
 +++
 
@@ -234,6 +234,7 @@ Atmosphere proved to be very popular...
 +++
 
 [DOI](https://www.doi.org/) is a Digital Object Identifier 
+
 [ARK](https://en.wikipedia.org/wiki/Archival_Resource_Key) is an Archival Resource Key.
 
 Both identifiers are issued by CyVerse through the California Digital Library's [EZID service](http://ezid.cdlib.org/).
@@ -253,7 +254,7 @@ Both identifiers are issued by CyVerse through the California Digital Library's 
 +++
 
 Develop new tools using Docker
-<img src="assets/imagery/horizontal_large.png" width="100">
+<img src="assets/imagery/horizontal_large.png" width="200">
 
 ---
 
@@ -265,7 +266,7 @@ The majority of data (59%) include a spatial component or are themselves inheren
 
 +++
 
-But first, a bit of history...
+a bit of history...
 
 +++
 
