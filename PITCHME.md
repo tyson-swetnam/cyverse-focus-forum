@@ -215,9 +215,9 @@ Atmosphere proved to be very popular...
 
 ...so they built
 
-### [Jetstream](https://use.jetstream-cloud.org)
+[*Jetstream*](https://use.jetstream-cloud.org)
 
-<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width="200">
+<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width="500">
 
 +++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
 
@@ -247,16 +247,12 @@ Atmosphere proved to be very popular...
 
 +++
 
-Develop tools
-
-+++
-
-Use Docker <img src="assets/imagery/horizontal_large.png" width 100>
-
+Develop new tools using Docker
+<img src="assets/imagery/horizontal_large.png" width="100">
 
 ---
 
-### Geographic Information Systems
+### GIS
 
 +++
 
@@ -282,6 +278,7 @@ Geographic Resources Analysis Support System (GRASS), est. 1982
 <img src="http://grassmac.wdfiles.com/local--files/start/startup_banner.png" width="500">
 
 +++
+
 
 
 ---
@@ -391,25 +388,28 @@ Done!
 
 +++
 
-@title[RStudio-Server]
+@title[Docker RStudio]
 
-### <span style="color: #e49436">R + RStudio-Server</span>
+### <span style="color: #e49436">Docker + RStudio</span>
 <br>
 
 ```shell
-$ git clone https://github.com/cyverse-gis/focus-forum.git
-$ cd focus-forum/atmo
-$ . install_rstudio.sh
-$ rstudio-server status
+$ ezd
+$ sudo usermod -aG docker $USER
+$ exit
+$ docker pull rocker/geospatial
+$ docker run -d -p 8787:8787 rocker/geospatial
+
 Done!
 
 ```
 
-@[1](Clone this Github Repository to the Virtual Machine)
-@[2](change directories to access the shell installation scripts)
-@[3](Run the script - this will take a while)
-@[4](The RStudio-Server should now be running, check to be sure)
-@[5](Start doing work!)
+@[1](install Docker)
+@[2](change `sudo` privileges)
+@[3](exit and restart terminal window)
+@[4](pull the Rocker/Geospatial Rstudio-Server from DockerHub)
+@[5](Run the Container on port `:8787`)
+@[7](Open the <IP address>:8787 in a new browser window)
 
 ---
 
