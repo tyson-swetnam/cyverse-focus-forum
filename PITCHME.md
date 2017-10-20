@@ -68,11 +68,11 @@ When <span style="font-family: Helvetica Neue; color: #118224">_you_</span> use 
 
 So, what qualifies as big data?
 
-@[0](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#3685E3">Mb?</span>)
-@[1](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000FF">Gb?</span>)
-@[2](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000A0">Tb?</span>)
-@[3](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#800080">Pb?</span>)
-@[4](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#00FF00">Eb?</span>)
+@[0](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10</sup>6</sup>?</span>)
+@[1](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte?</span>)
+@[2](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000A0">Terabyte?</span>)
+@[3](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#800080">Petabyte?</span>)
+@[4](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#00FF00">Exabyte?</span>)
 @[5](<span style="font-family: Helvetica Neue; font-size: 300%; font-weight: bold; color:#FF0000">data are just data</span>)
 
 +++
@@ -154,7 +154,7 @@ A workbench allows you to:
 
 +++
 
-<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="300"> <img src="http://jupyter.org/assets/hublogo.svg" width="200">
+<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="300"> <img src="http://jupyter.org/assets/hublogo.svg" width="210">
 
 +++
 
@@ -177,6 +177,14 @@ A workbench allows you to:
 - All new users receive 100GB 
 - Increase to 10TB via portal request.
 - +10TB available upon written request + executive review.
+
++++
+
+Despite hosting several petabytes of data storage, CyVerse *is not* a canonical geospatial data repository, e.g. [Earth on AWS S3](https://aws.amazon.com/earth/).
+
++++
+
+CyVerse *is* a place you can bring large quantities of data and do analysis on, generate more result data, and hold for a short period (e.g. 6 months to 1 year), before moving those data to a canonical or privately hosted repository.
 
 ---
 
@@ -262,19 +270,19 @@ But first, a bit of history...
 
 Environmental Systems Research Institute (ESRI), est. 1969
 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/1280px-Esri_logo.svg.png" width="400"> 
+
++++
+
+
++++
+
 Geographic Resources Analysis Support System (GRASS), est. 1982
 
-+++
-
-
+<img src="http://grassmac.wdfiles.com/local--files/start/startup_banner.png" width="500">
 
 +++
 
----
-
-#### Where do I get started, if I don't know where to start?
-
-The Carpentries
 
 ---
 
@@ -334,7 +342,7 @@ Docker Hub
 
 Singularity
 
-<img src="http://singularity.lbl.gov/images/logo/logo.svg" width="150">
+<img src="http://singularity.lbl.gov/images/logo/logo.svg" width="250">
 
 Singularity Hub
 
@@ -403,3 +411,8 @@ Done!
 @[4](The RStudio-Server should now be running, check to be sure)
 @[5](Start doing work!)
 
+---
+
+#### Where do I get started, if I don't know where to start?
+
+[The Carpentries](https://software-carpentry.org/)
