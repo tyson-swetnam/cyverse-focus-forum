@@ -25,17 +25,17 @@ twitter: tswetnam
 
 ### Your Roadmap
 
-- CyVerse
-- Data Science
-  - The Research Objects
+- Intro to CyVerse
+- Emergence of Data Science
+  - The Research Object
 - Data Scientist Workbenches
   - RStudio
   - Project Jupyter
-- Containers
+- Software Containers & why you need them
   - Docker
   - Singularity
-- GIS
-- Live Demo
+- GIS in cloud and on HPC 
+- Live Demo!!! _*DANGER*_
 
 ---
 
