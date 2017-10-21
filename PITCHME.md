@@ -205,7 +205,7 @@ CyVerse *is* a place you can bring large quantities of data and do analysis on, 
   ...
   - 16 CPU, 128GB RAM, 1400GB Disk
 - Attach (and detach) additional TB size volumes to an instance   
-- emulated web shell and desktop via Apache _Guacamole_  
+- emulated web shell and desktop via [Apache _Guacamole_](https://guacamole.incubator.apache.org/)  
 
 +++
 
