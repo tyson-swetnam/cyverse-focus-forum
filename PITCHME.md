@@ -227,7 +227,7 @@ Atmosphere proved to be very popular...
 
 +++
 
-...so they built
+...so we built
 
 <img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width="500">
 
@@ -272,15 +272,33 @@ Develop new tools using Docker
 
 ---
 
+## [Bisque](https://bisque.cyverse.org)
+![bisque](assets/imagery/bisQue_Blue.png)
+
++++
+
+BisQue is an image analysis platform 
+
++++
+
+- segmentation
+- annotation
+- metadata tagging
+
++++
+
+#### Coming soon
+
+- Machine Learning
+- Structure from Motion
+
+---
+
 ### GIS
 
 +++
 
 The majority of data (59%) include a spatial component or are themselves inherently spatial.
-
-+++
-
-a bit of history...
 
 +++
 
@@ -291,6 +309,7 @@ Environmental Systems Research Institute (ESRI), est. 1969
 +++
 
 ESRI has come to dominate the GIS marketplace and is used widely by gov't and academia.
+
 +++
 
 Geographic Resources Analysis Support System (GRASS), est. 1982
@@ -299,9 +318,25 @@ Geographic Resources Analysis Support System (GRASS), est. 1982
 
 +++
 
+OSGEO QGIS
+
++++
+
+A large open source community exists and is growing.
+
++++
+
+Boundless
+
++++
+
 Which GIS platform is best for CyVerse?
 
 @[1](<span style="font-size: 150%; font-weight: bold; color:#3685E3">They are both great</span>)
+
+---
+
+## Live Demo _*DANGER ZONE*_
 
 ---
 
@@ -326,28 +361,6 @@ Done!
 @[2](Install latest version of Docker)
 @[3](Install Anaconda and Jupyter Notebooks w/ Python3 and R Kernel)
 @[5](Start doing work!)
-
----
-
-## [Bisque](https://bisque.cyverse.org)
-![bisque](assets/imagery/bisQue_Blue.png)
-
-+++
-
-BisQue is an image analysis platform 
-
-+++
-
-- segmentation
-- annotation
-- metadata tagging
-
-+++
-
-#### Coming soon
-
-- Machine Learning
-- Structure from Motion
 
 ---
 
@@ -433,6 +446,15 @@ Done!
 @[5](Run the Container on port `:8787`)
 @[7](Open the IP and port number in a new browser window)
 
+---
+
+#### Multi-container jobs with Makeflow
+
++++
+
++++?image=assets/imagery/eemt_github.PNG&size=cover
+
++++?image=assets/imagery/eemt_singularity.png.png&size=cover
 ---
 
 #### Where do I get started, if I don't know where to start?
