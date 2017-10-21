@@ -28,11 +28,11 @@ twitter: tswetnam
 
 +++
 
-<span style="font-family: Helvetica Neue; font-weight: bold; color:#3685E3">Vision:</span> Transforming science through data driven discovery.</span>
+<span style="font-weight: bold; color:#3685E3">Vision:</span> Transforming science through data driven discovery.</span>
 
 +++
 
-<span style="font-family: Helvetica Neue; font-weight: bold; color: #3685E3">Mission:</span> To design, deploy, and expand a national cyberinfrastructure for life sciences research, and to train scientists in its use.</span>
+<span style="font-weight: bold; color: #3685E3">Mission:</span> To design, deploy, and expand a national cyberinfrastructure for life sciences research, and to train scientists in its use.</span>
 
 +++
 
@@ -42,38 +42,38 @@ twitter: tswetnam
 
 +++
 
-CyVerse is <span style="font-family: Helvetica Neue; color: #118224">_you_</span> and <span style="font-family: Helvetica Neue; color: #3685E3">_me_</span>.
+CyVerse is <span style="color: #118224">_you_</span> and <span style="color: #3685E3">_me_</span>.
 
-CyVerse is enabled by the <span style="font-family: Helvetica Neue; font-weight: bold; color: #c7232e">_people_</span> 
+CyVerse is enabled by <span style="font-weight: bold; color: #c7232e">_people_</span> 
 
 It doesn't exist without users innovating new and important science within an ecosystem of interoperability.  
 
 +++
 
-When <span style="font-family: Helvetica Neue; color: #118224">_you_</span> use CyVerse, develop new tools, workflows, and datasets they influence the science CyVerse embodies
+When <span style="color: #118224">_you_</span> use CyVerse, develop new tools, workflows, and datasets they influence the science CyVerse embodies
 
 ---
 
-### What does <span style="font-family: Helvetica Neue; font-weight: bold; color: #118224">large-scale</span> really mean in the era of <span style="font-family: Helvetica Neue; color: #3685E3">_big data_</span>?
+### What does <span style="font-weight: bold; color: #118224">large-scale</span> really mean in the era of <span style="color: #3685E3">_big data_</span>?
 
 +++
 
-<span style="font-family: Helvetica Neue; font-size: 200%; color:#000000">Data are always increasing in volume</span>
+<span style="font-size: 200%; color:#000000">Data are always increasing in volume</span>
 
 +++
 
-<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 200%; color:#FF0000">90% </span><span style="font-family: Helvetica Neue; font-size: 200%; color: #000000"> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)</span>
+<span style="font-weight: bold; font-size: 200%; color:#FF0000">90% </span><span style="font-size: 200%; color: #000000"> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)</span>
 
 +++
 
 So, what qualifies as big data?
 
-@[0](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#3685E3">6</span></sup>?</span>)
-@[1](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#0000FF">9</span></sup>?</span>)
-@[2](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#0000A0">Terabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#0000A0">12</span></sup>?</span>)
-@[3](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#800080">Petabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#800080">15</span></sup>?</span>)
-@[4](<span style="font-family: Helvetica Neue; font-size: 250%; font-weight: bold; color:#00FF00">Exabyte 10<sup><span style="font-family: Helvetica Neue; font-size: 75%; font-weight: bold; color:#00FF00">18</span></sup>?</span>)
-@[5](<span style="font-family: Helvetica Neue; font-size: 300%; font-weight: bold; color:#FF0000">data are just data</span>)
+@[0](<span style="font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10<sup><font-size: 75%; font-weight: bold; color:#3685E3">6</span></sup>?</span>)
+@[1](<span style="font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#0000FF">9</span></sup>?</span>)
+@[2](<span style="font-size: 250%; font-weight: bold; color:#0000A0">Terabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#0000A0">12</span></sup>?</span>)
+@[3](<font-size: 250%; font-weight: bold; color:#800080">Petabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#800080">15</span></sup>?</span>)
+@[4](<span style="font-size: 250%; font-weight: bold; color:#00FF00">Exabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#00FF00">18</span></sup>?</span>)
+@[5](<span style="font-size: 300%; font-weight: bold; color:#FF0000">data are just data</span>)
 
 +++
 
@@ -81,7 +81,7 @@ Computing power and storage capacity are advancing at exponential rate
 
 +++?image=assets/imagery/Moores_Law_over_120_Years.png&size=contain
 
-<span style="font-family: Helvetica Neue; color:#3685E3"> last 5 are all GPUs </span> 
+<span style="color:#3685E3"> last 5 are all GPUs </span> 
 
 +++
 
@@ -91,20 +91,20 @@ In this talk I'll cover a few skill levels
 
 +++
 
-<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#FF0000">New users</span>
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">New users</span>
 - Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
   - Maybe just learning spatial analyses for the first time
 
 +++
 
-<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#0000A0">Experienced users</span>
+<span style="font-weight: bold; font-size: 150%; color:#0000A0">Experienced users</span>
 - Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud
 - Need to move significant amounts of data around networks
 
 +++
 
 
-<span style="font-family: Helvetica Neue; font-weight: bold; font-size: 150%; color:#800080">Power users</span>
+<span style="font-weight: bold; font-size: 150%; color:#800080">Power users</span>
 - Interest in integrating global and national datasets across HPC environments for massively parallel computing
 
 ---
@@ -285,9 +285,9 @@ Geographic Resources Analysis Support System (GRASS), est. 1982
 
 +++
 
-Which GIS platform is best?
+Which GIS platform is best for CyVerse?
 
-@[1](<span style="font-family: Helvetica Neue; font-size: 150%; font-weight: bold; color:#3685E3">They are both great - its not my job to decide for you.</span>)
+@[1](<span style="font-size: 150%; font-weight: bold; color:#3685E3">They are both great</span>)
 
 ---
 
