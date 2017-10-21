@@ -4,8 +4,8 @@ horizontal: ---
 vertical: +++
 -->
 
-+++?image=assets/imagery/merged.png&size=auto
 <span style="font-weight: bold; font-size: 200%; color:#FFFF00">LEVERAGING CYVERSE FOR LARGE SCALE SPATIAL DATA ANALYSIS</span>
+---?image=assets/imagery/merged.png&size=auto
 
 +++
 
