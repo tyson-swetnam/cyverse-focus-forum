@@ -23,6 +23,22 @@ twitter: tswetnam
 
 ---
 
+#### Roadmap
+
+- Cyverse
+- Data Science
+  - Research Objects
+ - Data Scientist Workbenches
+  - RStudio
+  - Project Jupyter
+- Containers
+  - Docker
+  - Singularity
+- GIS
+- Live Demo
+
+---
+
 ### What is [CyVerse](http://cyverse.org)? 
 ![cyverse](assets/imagery/cyverse_logo_150px.png)
 
@@ -154,7 +170,7 @@ A workbench allows you to:
 
 +++
 
-<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="300"> <img src="http://jupyter.org/assets/hublogo.svg" width="210">
+<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="300"> <img src="http://jupyter.org/assets/hublogo.svg" width="205">
 
 +++
 
