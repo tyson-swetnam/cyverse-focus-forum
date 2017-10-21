@@ -23,12 +23,12 @@ twitter: tswetnam
 
 ---
 
-#### Roadmap
+### Your Roadmap
 
-- Cyverse
+- CyVerse
 - Data Science
-  - Research Objects
- - Data Scientist Workbenches
+  - The Research Objects
+- Data Scientist Workbenches
   - RStudio
   - Project Jupyter
 - Containers
@@ -68,6 +68,28 @@ It doesn't exist without users innovating new and important science within an ec
 
 When <span style="color: #118224">_you_</span> use CyVerse, develop new tools, workflows, and datasets they influence the science CyVerse embodies
 
++++
+
+In this talk I'll cover a few skill levels
+
++++
+
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">New users</span>
+- Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
+  - Maybe just learning spatial analyses for the first time
+
++++
+
+<span style="font-weight: bold; font-size: 150%; color:#0000A0">Experienced users</span>
+- Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud
+- Need to move significant amounts of data around networks
+
++++
+
+
+<span style="font-weight: bold; font-size: 150%; color:#800080">Power users</span>
+- Interest in integrating global and national datasets across HPC environments for massively parallel computing
+
 ---
 
 ### What does <span style="font-weight: bold; color: #118224">large-scale</span> really mean in the era of <span style="color: #3685E3">_big data_</span>?
@@ -98,32 +120,6 @@ Computing power and storage capacity are advancing at exponential rate
 +++?image=assets/imagery/Moores_Law_over_120_Years.png&size=contain
 
 <span style="color:#3685E3"> last 5 are all GPUs </span> 
-
-+++
-
-There are many types of spatial data user...
-
-In this talk I'll cover a few skill levels
-
-+++
-
-<span style="font-weight: bold; font-size: 150%; color:#FF0000">New users</span>
-- Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
-  - Maybe just learning spatial analyses for the first time
-
-+++
-
-<span style="font-weight: bold; font-size: 150%; color:#0000A0">Experienced users</span>
-- Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud
-- Need to move significant amounts of data around networks
-
-+++
-
-
-<span style="font-weight: bold; font-size: 150%; color:#800080">Power users</span>
-- Interest in integrating global and national datasets across HPC environments for massively parallel computing
-
----
 
 ### The Research Object
 
