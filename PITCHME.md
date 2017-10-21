@@ -4,7 +4,7 @@ horizontal: ---
 vertical: +++
 -->
 
-## Leveraging CyVerse for large scale spatial analysis
+# Leveraging CyVerse for large scale spatial analysis
 +++
 
 #### October 27, 2017
@@ -23,7 +23,7 @@ twitter: tswetnam
 
 ---
 
-### Your Roadmap
+### Our Roadmap
 
 - Intro to CyVerse
 - Emergence of Data Science
