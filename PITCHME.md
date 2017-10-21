@@ -3,7 +3,7 @@ Slide delimiters are given by:
 horizontal: ---
 vertical: +++
 -->
----?image=assets/imagery/merged.png&size=auto
+---?image=assets/imagery/merged.png&size=cover
 <span style="font-weight: bold; font-size: 150%; color:#FFFF00">LEVERAGING CYVERSE FOR LARGE SCALE SPATIAL DATA ANALYSIS</span>
 
 
