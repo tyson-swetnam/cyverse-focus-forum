@@ -4,7 +4,7 @@ horizontal: ---
 vertical: +++
 -->
 
-# Leveraging CyVerse for large scale spatial analysis
+<span style="font-weight: bold; font-size: 450%; color:#800080">Leveraging CyVerse for large scale spatial analysis</span>
 +++
 
 #### October 27, 2017
