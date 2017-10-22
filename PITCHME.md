@@ -288,7 +288,7 @@ Develop new tools using Docker
 
 +++
 
-BisQue is an image analysis platform 
+[BisQue](https://bisque.cyverse.org) is an image analysis platform 
 
 +++
 
@@ -306,7 +306,7 @@ BisQue is an image analysis platform
 ---
 
 ## [To Infinity, and Beyond!](https://agaveapi.co/platform/)
-<img src="https://agaveapi.co/wp-content/uploads/2016/02/Agave-white-logo-platform.png" height="400">
+<img src="https://agaveapi.co/wp-content/uploads/2016/02/Agave-white-logo-platform.png" height="300">
 
 ---
 
