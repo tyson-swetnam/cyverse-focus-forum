@@ -22,17 +22,17 @@ twitter: tswetnam
 ### Our Roadmap
 
 
-- <span style="font-family: courier; font-weight: bold; color:#000000">Intro to CyVerse</span>
-- Emergence of Data Science
-  - The Research Object
-- Data Scientist Workbenches
-  - RStudio
-  - Project Jupyter
-- Software Containers & why you need them
-  - Docker
-  - Singularity
-- GIS in cloud and on HPC 
-- Live Demo!!! _*DANGER*_ </span>
+- <span style="font-family: courier; color:#000000">Intro to CyVerse</span>
+- <span style="font-family: courier; color:#000000">Emergence of Data Science </span>
+  - <span style="font-family: courier; color:#000000">The Research Object </span>
+- <span style="font-family: courier; color:#000000">Data Scientist Workbench examples </span>
+  - <span style="font-family: courier; color:#000000">RStudio </span>
+  - <span style="font-family: courier; color:#000000">Project Jupyter </span>
+- <span style="font-family: courier; color:#000000">Software Containers & why you need them </span>
+  - <span style="font-family: courier; color:#000000">Docker </span>
+  - <span style="font-family: courier; color:#000000">Singularity </span>
+- <span style="font-family: courier; color:#000000">GIS in cloud and on HPC </span>
+- <span style="font-family: courier; color:#000000">Live Demo!!! _*DANGER*_ </span>
 
 ---
 
