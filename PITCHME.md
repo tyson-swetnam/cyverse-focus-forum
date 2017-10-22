@@ -469,9 +469,9 @@ Done!
 
 +++
 
-+++?image=assets/imagery/eemt_github.PNG&size=cover
++++?image=assets/imagery/eemt_github.PNG&size=auto 90%
 
-+++?image=assets/imagery/eemt_singularity.png.png&size=cover
++++?image=assets/imagery/eemt_singularity.png.png&size=auto 90%
 ---
 
 #### Where do I get started, if I don't know where to start?
