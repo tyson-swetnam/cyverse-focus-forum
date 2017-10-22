@@ -23,15 +23,25 @@ twitter: tswetnam
 
 
 <span style="font-family: courier; color:#000000">Intro to CyVerse</span>
+
 <span style="font-family: courier; color:#000000">Emergence of Data Science </span> <!-- .element: class="fragment" -->
+
 <span style="font-family: courier; color:#000000">The Research Object </span> <!-- .element: class="fragment" -->
+
 <span style="font-family: courier; color:#000000">Data Scientist Workbench examples </span> <!-- .element: class="fragment" -->
+
 <span style="font-family: courier; color:#000000">RStudio </span> <!-- .element: class="fragment" -->
+
 <span style="font-family: courier; color:#000000">Project Jupyter </span> <!-- .element: class="fragment" -->
+
 <span style="font-family: courier; color:#000000">Software Containers & why you need them </span> <!-- .element: class="fragment" -->
+
 <span style="font-family: courier; color:#000000">Docker </span> <!-- .element: class="fragment" -->
+
 <span style="font-family: courier; color:#000000">Singularity </span> <!-- .element: class="fragment" -->
+
 <span style="font-family: courier; color:#000000">GIS in cloud and on HPC </span> <!-- .element: class="fragment" -->
+
 <span style="font-family: courier; color:#000000">Live Demo!!! _*DANGER*_ </span> <!-- .element: class="fragment" -->
 
 ---
@@ -72,20 +82,25 @@ In this talk I'll cover a few skill levels
 +++
 
 <span style="font-weight: bold; font-size: 150%; color:#FF0000">New users</span>
-- Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools
-  - Maybe just learning spatial analyses for the first time
+
+- Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools <!-- .element: class="fragment" -->
+  
+  - Maybe just learning spatial analyses for the first time <!-- .element: class="fragment" -->
 
 +++
 
 <span style="font-weight: bold; font-size: 150%; color:#0000A0">Experienced users</span>
-- Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud
-- Need to move significant amounts of data around networks
+
+- Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud <!-- .element: class="fragment" -->
+
+- Need to move significant amounts of data around networks <!-- .element: class="fragment" -->
 
 +++
 
 
 <span style="font-weight: bold; font-size: 150%; color:#800080">Power users</span>
-- Interest in integrating global and national datasets across HPC environments for massively parallel computing
+
+- Interest in integrating global and national datasets across HPC environments for massively parallel computing <!-- .element: class="fragment" -->
 
 ---
 
