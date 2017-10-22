@@ -164,8 +164,8 @@ A workbench allows you to:
 
 +++
 
-<img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="300"> <img src="http://jupyter.org/assets/hublogo.svg" width="208">
-<img src="http://mybinder.org/assets/images/logo.svg" width="300">
+<img src="assets/imagery/Python_logo_and_wordmark.svg.png" height="100"> <img src="http://jupyter.org/assets/hublogo.svg" height="100">
+<img src="http://mybinder.org/assets/images/logo.svg" height="100">
 
 +++
 
