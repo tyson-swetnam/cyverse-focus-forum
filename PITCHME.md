@@ -1,11 +1,5 @@
-<!--
-Slide delimiters are given by:
-horizontal: ---
-vertical: +++
--->
 ---?image=assets/imagery/merged.png&size=cover
 <span style="font-weight: bold; font-size: 150%; color:#FFFF00">LEVERAGING CYVERSE FOR LARGE SCALE SPATIAL DATA ANALYSIS</span>
-
 
 +++
 
@@ -171,6 +165,7 @@ A workbench allows you to:
 +++
 
 <img src="assets/imagery/Python_logo_and_wordmark.svg.png" width="300"> <img src="http://jupyter.org/assets/hublogo.svg" width="205">
+<img src="http://mybinder.org/assets/images/logo.svg" width="200">
 
 +++
 
