@@ -30,7 +30,7 @@ twitter: tswetnam
 
 <span style="font-family: courier; color:#000000">Containers & why you need them </span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">GIS in cloud and on HPC: Live Demo!!! _*DANGER*_ </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">GIS in cloud and on HPC: Live Demo!!! _*DANGER ZONE*_ </span> <!-- .element: class="fragment" -->
 
 ---
 
