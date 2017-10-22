@@ -1,4 +1,4 @@
-logo: <src image="assets/imagery/cyverse_rgb_75px.png" size=auto>
+logo: <img src="assets/imagery/cyverse_rgb_75px.png" height="50">
 # background: assets/imagery/merged.png
 background-size: cover
 theme: sky
