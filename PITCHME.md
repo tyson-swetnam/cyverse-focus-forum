@@ -22,27 +22,15 @@ twitter: tswetnam
 ### Our Roadmap
 
 
-<span style="font-family: courier; color:#000000">Intro to CyVerse</span>
+<span style="font-family: courier; color:#000000">Intro to CyVerse</span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">Emergence of Data Science </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Emergence of Data Science & The Research Object </span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">The Research Object </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Data Scientist Workbench examples: RStudio & Project Jupyter </span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">Data Scientist Workbench examples </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Containers & why you need them </span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">RStudio </span> <!-- .element: class="fragment" -->
-
-<span style="font-family: courier; color:#000000">Project Jupyter </span> <!-- .element: class="fragment" -->
-
-<span style="font-family: courier; color:#000000">Software Containers & why you need them </span> <!-- .element: class="fragment" -->
-
-<span style="font-family: courier; color:#000000">Docker </span> <!-- .element: class="fragment" -->
-
-<span style="font-family: courier; color:#000000">Singularity </span> <!-- .element: class="fragment" -->
-
-<span style="font-family: courier; color:#000000">GIS in cloud and on HPC </span> <!-- .element: class="fragment" -->
-
-<span style="font-family: courier; color:#000000">Live Demo!!! _*DANGER*_ </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">GIS in cloud and on HPC: Live Demo!!! _*DANGER*_ </span> <!-- .element: class="fragment" -->
 
 ---
 
