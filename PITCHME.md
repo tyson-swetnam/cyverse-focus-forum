@@ -300,18 +300,20 @@ Develop new tools using Docker
 
 #### Coming soon
 
++++
+
 - Machine Learning
 - Structure from Motion
 
 ---
 
-## [To Infinity, and Beyond!](https://agaveapi.co/platform/)
-<img src="https://agaveapi.co/wp-content/uploads/2016/02/Agave-white-logo-platform.png" height="300">
+## [Learning Center](http://learning.cyverse.org/en/latest/) 
+![lc](assets/imagery/Learningcenter_blue.png)
 
 ---
 
-## [Learning Center](http://learning.cyverse.org/en/latest/) 
-![lc](assets/imagery/Learningcenter_blue.png)
+#### [To Infinity, and Beyond!](https://agaveapi.co/platform/)
+<img src="https://agaveapi.co/wp-content/uploads/2016/02/Agave-white-logo-platform.png" height="200">
 
 ---
 
@@ -329,21 +331,29 @@ Environmental Systems Research Institute (ESRI), est. 1969
 
 +++
 
-ESRI has come to dominate the GIS marketplace and is used widely by gov't and academia.
+ESRI has come to dominate the US GIS marketplace and is used widely by gov't and in academia.
 
 +++
 
-Geographic Resources Analysis Support System (GRASS), est. 1982
+Geographic Resources Analysis Support System (GRASS), est. 1982 by US Army Corps of Engineers
 
 <img src="http://grassmac.wdfiles.com/local--files/start/startup_banner.png" width="500">
 
 +++
 
-OSGEO QGIS
+Open Source Geospatial Foundation (OSGEO)
 
 +++
 
 A large open source community exists and is growing.
+
++++
+
+QGIS
+
++++
+
+PostGIS
 
 +++
 
