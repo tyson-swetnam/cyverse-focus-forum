@@ -178,12 +178,12 @@ A workbench allows you to:
 
 +++
 
-<img src="assets/imagery/Python_logo_and_wordmark.svg.png" height="100"> <img src="http://jupyter.org/assets/hublogo.svg" height="100">
-<img src="http://mybinder.org/assets/images/logo.svg" height="100">
+<img src="assets/imagery/Python_logo_and_wordmark.svg.png" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
+<img src="http://mybinder.org/assets/images/logo.svg" height="150">
 
 +++
 
-<img src="assets/imagery/Rlogonew.png" width="200"> 
+<img src="assets/imagery/Rlogonew.png" height="150"> <img src="assets/imagery/RStudio-Logo-Blue-Gradient.png" height="150">
 
 ---
 
