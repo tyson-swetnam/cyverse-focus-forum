@@ -305,13 +305,15 @@ BisQue is an image analysis platform
 
 ---
 
-## [Agave](https://agaveapi.co/platform/)
+## [To Infinity, and Beyond!](https://agaveapi.co/platform/)
 <img src="https://agaveapi.co/wp-content/uploads/2016/02/Agave-white-logo-platform.png" height="400">
 
 ---
 
 ## [Learning Center](http://learning.cyverse.org/en/latest/) 
 ![lc](assets/imagery/Learningcenter_blue.png)
+
+---
 
 ### GIS
 
