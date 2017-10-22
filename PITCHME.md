@@ -21,8 +21,8 @@ twitter: tswetnam
 
 ### Our Roadmap
 
-<span style="font-family: courier; font-weight: bold; color:#000000">
-- Intro to CyVerse
+
+- <span style="font-family: courier; font-weight: bold; color:#000000">Intro to CyVerse</span>
 - Emergence of Data Science
   - The Research Object
 - Data Scientist Workbenches
