@@ -22,17 +22,17 @@ twitter: tswetnam
 ### Our Roadmap
 
 
-- <span style="font-family: courier; color:#000000">Intro to CyVerse</span>
-- <span style="font-family: courier; color:#000000">Emergence of Data Science </span>
-  - <span style="font-family: courier; color:#000000">The Research Object </span>
-- <span style="font-family: courier; color:#000000">Data Scientist Workbench examples </span>
-  - <span style="font-family: courier; color:#000000">RStudio </span>
-  - <span style="font-family: courier; color:#000000">Project Jupyter </span>
-- <span style="font-family: courier; color:#000000">Software Containers & why you need them </span>
-  - <span style="font-family: courier; color:#000000">Docker </span>
-  - <span style="font-family: courier; color:#000000">Singularity </span>
-- <span style="font-family: courier; color:#000000">GIS in cloud and on HPC </span>
-- <span style="font-family: courier; color:#000000">Live Demo!!! _*DANGER*_ </span>
+<span style="font-family: courier; color:#000000">Intro to CyVerse</span>
+<span style="font-family: courier; color:#000000">Emergence of Data Science </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">The Research Object </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Data Scientist Workbench examples </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">RStudio </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Project Jupyter </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Software Containers & why you need them </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Docker </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Singularity </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">GIS in cloud and on HPC </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Live Demo!!! _*DANGER*_ </span> <!-- .element: class="fragment" -->
 
 ---
 
@@ -55,11 +55,11 @@ twitter: tswetnam
 
 +++
 
-CyVerse is <span style="color: #118224">_you_</span> and <span style="color: #3685E3">_me_</span>.
+CyVerse is <span style="color: #118224">_you_</span> and <span style="color: #3685E3">_me_</span> <!-- .element: class="fragment" -->
 
-CyVerse is enabled by <span style="font-weight: bold; color: #c7232e">_people_</span> 
+CyVerse is enabled by <span style="font-weight: bold; color: #c7232e">_people_</span>  <!-- .element: class="fragment" -->
 
-It doesn't exist without users innovating new and important science within an ecosystem of interoperability.  
+Doesn't exist without users innovating new and important science within an ecosystem of interoperability  <!-- .element: class="fragment" -->
 
 +++
 
