@@ -67,7 +67,11 @@ CyVerse' existance depends on users innovating within an ecosystem of interopera
 
 +++
 
-When scientists use CyVerse to develop tools, workflows, and datasets their influence results in what CyVerse is today
+When scientists start using CyVerse <span style="font-weight: bold; color: #3685E3">we</span> work together to:
+
+Develop your tools, workflows, and datasets
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Organic_V_color_size_4.png" height="100"> <img src="http://cstaab.com/wp-content/uploads/cpp_java_python.png" height="100"> <img src="https://pbs.twimg.com/profile_images/662507863516905472/7piKPHHv.jpg" height="100"> <!-- .element: class="fragment" -->
 
 +++
 
