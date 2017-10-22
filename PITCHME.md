@@ -71,7 +71,7 @@ When scientists start using CyVerse <span style="font-weight: bold; color: #3685
 
 Develop your tools, workflows, and datasets
 
-<img src="http://insidethegem.com/wp-content/uploads/organic-logo.png" height="100"> <img src="http://cstaab.com/wp-content/uploads/cpp_java_python.png" height="100"> <img src="assets/imagery/julian.jpg" height="100"> 
+<img src="http://insidethegem.com/wp-content/uploads/organic-logo.png" height="100"> <img src="http://cstaab.com/wp-content/uploads/cpp_java_python.png" height="100"> <img src="https://pbs.twimg.com/profile_images/662507863516905472/7piKPHHv_400x400.jpg" height="100"> 
 
 +++
 
