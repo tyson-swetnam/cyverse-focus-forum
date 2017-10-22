@@ -343,7 +343,7 @@ Boundless
 
 Which GIS platform is best for CyVerse?
 
-@[1](<span style="font-size: 150%; font-weight: bold; color:#3685E3">They are both great</span>)
+@[1](<span style="font-size: 150%; font-weight: bold; color:#3685E3">They are all great & no one platform is going to fit all of your needs </span>)
 
 ---
 
@@ -351,9 +351,9 @@ Which GIS platform is best for CyVerse?
 
 +++
 
-### Introduction to working with Virtual Machines
+#### Building the best Virtual Machine for your research
 
-<img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="600">
+<img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="500">
 
 +++
 
