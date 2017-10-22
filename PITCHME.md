@@ -70,8 +70,7 @@ CyVerse' existance depends on users innovating within an ecosystem of interopera
 When scientists start using CyVerse <span style="font-weight: bold; color: #3685E3">we</span> work together to:
 
 Develop your tools, workflows, and datasets
-
-<img src="http://insidethegem.com/wp-content/uploads/organic-logo.png" height="100"> <img src="http://cstaab.com/wp-content/uploads/cpp_java_python.png" height="100"> <img src="https://avatars1.githubusercontent.com/u/742633?v=4&s=460" height="100"> <!-- .element: class="fragment" -->
+<img src="http://insidethegem.com/wp-content/uploads/organic-logo.png" height="100"> <img src="http://cstaab.com/wp-content/uploads/cpp_java_python.png" height="100"> <img src="https://pbs.twimg.com/profile_images/662507863516905472/7piKPHHv_400x400.jpg" height="100"> <!-- .element: class="fragment" -->
 
 +++
 
