@@ -53,15 +53,20 @@ twitter: tswetnam
 
 +++
 
-CyVerse is <span style="color: #118224">_you_</span> and <span style="color: #3685E3">_me_</span> <!-- .element: class="fragment" -->
+CyVerse is <span style="color: #118224">_you_ & _me_</span> <!-- .element: class="fragment" -->
 
-CyVerse is enabled by <span style="font-weight: bold; color: #c7232e">_people_</span>  <!-- .element: class="fragment" -->
+CyVerse is enabled by <span style="font-weight: bold; color: #c7232e">_research_</span>  <!-- .element: class="fragment" -->
 
-Doesn't exist without users innovating new and important science within an ecosystem of interoperability  <!-- .element: class="fragment" -->
+CyVerse' existance depends on users innovating within an ecosystem of interoperability  <!-- .element: class="fragment" -->
 
 +++
 
-When <span style="color: #118224">_you_</span> use CyVerse, develop new tools, workflows, and datasets they influence the science CyVerse embodies
+<img src="http://www.twincities.com/wp-content/uploads/2015/11/20130102__field-of-dreamsl.jpg" height="400"> <img src="https://theamericangenius.com/wp-content/uploads/2014/02/field-of-dreams.jpg" height="400">
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">NOT!</span> <!-- .element: class="fragment" -->
+
++++
+
+When scientists use CyVerse to develop tools, workflows, and datasets their influence results in what CyVerse is today
 
 +++
 
@@ -339,11 +344,17 @@ Which GIS platform is best for CyVerse?
 
 ## Live Demo _*DANGER ZONE*_
 
----
++++
+
+### Introduction to working with Virtual Machines
+
+<img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="600">
+
++++
 
 #### Setting up Atmosphere instances as Data Science Workbenches
 
----
++++
 
 @title[EZ Install]
 
