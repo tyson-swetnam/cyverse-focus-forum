@@ -183,7 +183,7 @@ A workbench allows you to:
 
 +++
 
-<img src="assets/imagery/Rlogonew.png" height="150"> <img src="assets/imagery/RStudio-Logo-Blue-Gradient.png" height="150">
+<img src="assets/imagery/Rlogonew.png" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
 
 ---
 
