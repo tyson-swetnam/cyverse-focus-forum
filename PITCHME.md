@@ -21,6 +21,7 @@ twitter: tswetnam
 
 ### Our Roadmap
 
+<span style="font-family: courier; font-weight: bold; color:#000000">
 - Intro to CyVerse
 - Emergence of Data Science
   - The Research Object
@@ -31,7 +32,7 @@ twitter: tswetnam
   - Docker
   - Singularity
 - GIS in cloud and on HPC 
-- Live Demo!!! _*DANGER*_
+- Live Demo!!! _*DANGER*_ </span>
 
 ---
 
