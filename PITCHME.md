@@ -302,10 +302,54 @@ Develop new tools using Docker
 ## [Learning Center](http://learning.cyverse.org/en/latest/) 
 ![lc](assets/imagery/Learningcenter_blue.png)
 
++++
+
+Next week's webinar - [Getting Started with CyVerse](http://www.cyverse.org/blog/events/webinar-get-started-cyverse-november-2017)
+
 ---
 
 #### [To Infinity, and Beyond!](https://agaveapi.co/platform/)
 <img src="https://agaveapi.co/wp-content/uploads/2016/02/Agave-white-logo-platform.png" height="200">
+
+---
+
+### Containers
+
++++
+
+#### different OS + third party software + frequent changes and updates + deployment and reproducibility issues = 
+ 
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">_Dependency Hell_</span> <!-- .element: class="fragment" -->
+
+<img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" width="200"> <!-- .element: class="fragment" -->
+
++++
+
+Solution: Containerize your software, run anywhere. 
+
++++
+
+<img src="assets/imagery/vertical_large.png" height="200">
+
+Docker Hub
+
++++
+
+Unlike Docker, [Singularity](http://singularity.lbl.gov) has `root` privilege - allowing changes to containers on systems where the user has no `sudo` access
+
+<img src="http://singularity.lbl.gov/images/logo/logo.svg" width="250">
+
+Singularity Hub
+
++++
+
+Want to learn more about Scientific Research with containers?
+
+Advanced Workshop hosted by CyVerse
+
+March 2018 (exact dates TBA)
+
+University of Arizona, Tucson, AZ
 
 ---
 
@@ -359,6 +403,24 @@ Which GIS platform is best for CyVerse?
 
 ---
 
+### using Licensed software with CyVerse
+
++++
+
+ArcGIS is the most widely used GIS software in the USA, ~40% of all users.
+
++++
+
+[ArcGIS Portal 10.5](http://server.arcgis.com/en/portal/latest/install/linux/welcome-to-the-portal-for-arcgis-installation-guide.htm) runs in Linux
+
+- install on Atmosphere / Jetstream instances using Chef
+ - must use license keys issued via your institution
+- Integrated with Docker and [Project Jupyter](https://hub.docker.com/r/esridocker/arcgis-api-python-notebook/) 
+ - run notebooks with ArcPy and the ArcGIS API to do big data applications 
+
+--- 
+
+
 ## Live Demo _*DANGER ZONE*_
 
 +++
@@ -392,39 +454,6 @@ Done!
 @[5](Start doing work!)
 
 ---
-
-### Containers
-
-Docker
-
-Docker Hub
-
-+++
-
-Singularity
-
-<img src="http://singularity.lbl.gov/images/logo/logo.svg" width="250">
-
-Singularity Hub
-
----
-
-### using Licensed software with CyVerse
-
-+++
-
-ArcGIS is the most widely used GIS software in the USA, ~40% of all users.
-
-+++
-
-[ArcGIS Portal 10.5](http://server.arcgis.com/en/portal/latest/install/linux/welcome-to-the-portal-for-arcgis-installation-guide.htm) runs in Linux
-
-- install on Atmosphere / Jetstream instances using Chef
- - must use license keys issued via your institution
-- Integrated with Docker and [Project Jupyter](https://hub.docker.com/r/esridocker/arcgis-api-python-notebook/) 
- - run notebooks with ArcPy and the ArcGIS API to do big data applications 
-
---- 
 
 @title[ArcGIS Jupyter Notebook with Docker]
 
@@ -484,6 +513,7 @@ Done!
 +++?image=assets/imagery/eemt_github.PNG&size=auto 95%
 
 +++?image=assets/imagery/eemt_singularity.png.png&size=auto 95%
+
 ---
 
 #### Where do I get started, if I don't know where to start?
