@@ -347,7 +347,7 @@ Want to learn more about Scientific Research with containers?
 
 Advanced Workshop hosted by CyVerse
 
-March 2018 (exact dates TBA)
+Feb 29 - March 2, 2018 (exact date TBA)
 
 University of Arizona, Tucson, AZ
 
