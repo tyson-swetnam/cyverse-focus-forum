@@ -47,15 +47,7 @@ twitter: tswetnam
 
 +++
 
-- Cyberinfrastructure
-- Research
-- Training
-
-+++
-
-CyVerse is <span style="color: #118224">_you_ & _me_</span> <!-- .element: class="fragment" -->
-
-CyVerse is enabled by <span style="font-weight: bold; color: #c7232e">_research_</span>  <!-- .element: class="fragment" -->
+CyVerse is enabled by <span style="font-weight: bold; color: #c7232e">_people & research_</span>  <!-- .element: class="fragment" -->
 
 CyVerse' existance depends on users innovating within an ecosystem of interoperability  <!-- .element: class="fragment" -->
 
