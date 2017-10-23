@@ -321,7 +321,7 @@ Next week's webinar - [Getting Started with CyVerse](http://www.cyverse.org/blog
  
 <span style="font-weight: bold; font-size: 150%; color:#FF0000">_Dependency Hell_</span> <!-- .element: class="fragment" -->
 
-<img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" width="200"> <!-- .element: class="fragment" -->
+<img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" width="300"> <!-- .element: class="fragment" -->
 
 +++
 
