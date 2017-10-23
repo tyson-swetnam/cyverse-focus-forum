@@ -434,7 +434,7 @@ ArcGIS is the most widely used GIS software in the USA, ~40% of all users.
 ```shell
 $ ezd
 $ usermod -aG docker $USER
-$ docker pull esridocker/arcgis-api-python-notebook
+$ docker run -p 8888:8888 esridocker/arcgis-api-python-notebook
 
 Done!
 
