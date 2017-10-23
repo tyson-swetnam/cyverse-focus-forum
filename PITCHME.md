@@ -129,9 +129,9 @@ Computing power and storage capacity are advancing at exponential rate
 
 +++
 
-<span style="font-weight: bold; font-size: 100%; color:#000000">_Okay, what is a Research Object?_</span>
+<span style="font-size: 150%; color:#000000">_Okay, what is a Research Object?_</span>
 
-@[1](<span style="font-size: 125%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>)
+@[1](<span style="font-size: 150%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>)
 
 +++
 
