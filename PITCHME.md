@@ -106,7 +106,7 @@ In this talk I'll cover a few skill levels
 
 +++
 
-<span style="font-weight: bold; font-size: 150%; color:#000000">So, what qualifies as big data?</span>
+<span style="font-size: 150%; color:#000000">So, what qualifies as big data?</span>
 
 @[0](<span style="font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#3685E3">6</span></sup>?</span>)
 @[1](<span style="font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#0000FF">9</span></sup>?</span>)
