@@ -98,11 +98,11 @@ In this talk I'll cover a few skill levels
 
 +++
 
-<span style="font-size: 200%; color:#000000">Data are always increasing in volume</span>
+<span style="font-size: 150%; color:#000000">Data are always increasing in volume</span>
 
 +++
 
-<span style="font-weight: bold; font-size: 200%; color:#FF0000">90% </span><span style="font-size: 200%; color: #000000"> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)</span>
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">90% </span><span style="font-size: 150%; color: #000000"> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)</span>
 
 +++
 
