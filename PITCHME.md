@@ -198,7 +198,7 @@ CyVerse *is* a place you can bring large quantities of data and do analysis on, 
 
 +++
 
-#### Moving data onto and off the Data Store
+#### Data Store upload/download
 
 +++
 
@@ -206,17 +206,39 @@ CyVerse *is* a place you can bring large quantities of data and do analysis on, 
   - Multi-threaded file transfer 
 - GUI via the [Discovery Environment](https://de.cyverse.org)
 - Mountable as a local file directory via FUSE
-- Extendable API for developers via _*Agave*_
+- Extendable API for developers via _*[Agave](http://www.cyverse.org/science-apis)*_
 
 +++
 
-<img src="https://cdn.cyberduck.io/img/cyberduck-icon-384.png" height="250">
-
 #### [CyberDuck](https://cyberduck.io/)
+
+<img src="https://cdn.cyberduck.io/img/cyberduck-icon-384.png" height="250">
 
 [Setting up CyberDuck with CyVerse DataStore](https://pods.iplantcollaborative.org/wiki/display/DS/Using+Cyberduck+for+Uploading+and+Downloading+to+the+Data+Store)
 
 +++
+
+#### iCommands
+
+title[iCommands]
+
+### <span style="color: #e49436">using iCommands</span>
+<br>
+
+```shell
+$ ils
+$ imkdir
+$ iinit
+$ iget -KPbrv /iplant/home/tyson_swetnam/rstudio_data/ ~/home/$USER/Downloads/
+$ iput -KPrv ~/home/$USER/Documents/rstudio_demo.rmd /iplant/home/tyson_swetnam/data
+
+Done!
+```
+
+@[1]([iCommands](https://pods.iplantcollaborative.org/wiki/display/DS/Using+iCommands) uses standard Linux commands, e.g. `ls` is `ils`)
+@[2](Create a folder on the DataStore)
+@[3](`get` files from the DataStore. Flags `-` with `K` ensures data are not corrupted, `P` provide feedback, `b` bulk transfer, `v` verbose, `r` recursive through entire folder )
+@[5](`put` files onto the DataStore.)
 
 
 ---
@@ -470,6 +492,8 @@ Done!
 @[5](Start doing work!)
 
 ---
+
+@title[Anaconda]
 
 ### <span style="color: #e49436">Anaconda and Jupyter Notebook</span>
 <br>
