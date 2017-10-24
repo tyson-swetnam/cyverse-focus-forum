@@ -227,13 +227,12 @@ $ imkdir
 $ iinit
 $ iget -KPbrv /iplant/home/tyson_swetnam/rstudio_data/ ~/home/$USER/Downloads/
 $ iput -KPrv ~/home/$USER/Documents/rstudio_demo.rmd /iplant/home/tyson_swetnam/data
-
-Done!
 ```
 
 @[1]([iCommands](https://pods.iplantcollaborative.org/wiki/display/DS/Using+iCommands) uses standard Linux commands, e.g. `ls` is `ils`)
 @[2](Create a folder on the DataStore)
-@[3](`get` files from the DataStore. Flags `-` with `K` ensures data are not corrupted, `P` provide feedback, `b` bulk transfer, `v` verbose, `r` recursive through entire folder )
+@[3](initiate the connection to an iRODS account)
+@[4](`get` files from the DataStore. Flags `-` with `K` ensures data are not corrupted, `P` provide feedback, `b` bulk transfer, `v` verbose, `r` recursive through entire folder )
 @[5](`put` files onto the DataStore.)
 
 ---
