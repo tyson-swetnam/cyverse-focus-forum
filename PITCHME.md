@@ -206,7 +206,7 @@ CyVerse *is* a place you can bring large quantities of data and do analysis on, 
   - Multi-threaded file transfer 
 - GUI via the [Discovery Environment](https://de.cyverse.org)
 - Mountable as a local file directory via FUSE
-- Extendable API for developers via _*[Agave](http://www.cyverse.org/science-apis)*_
+- Extendable API for developers via *[Agave](http://www.cyverse.org/science-apis)*
 
 +++
 
@@ -218,11 +218,7 @@ CyVerse *is* a place you can bring large quantities of data and do analysis on, 
 
 +++
 
-#### iCommands
-
-title[iCommands]
-
-### <span style="color: #e49436">using iCommands</span>
+<span style="color: #e49436">using iCommands</span>
 <br>
 
 ```shell
@@ -239,7 +235,6 @@ Done!
 @[2](Create a folder on the DataStore)
 @[3](`get` files from the DataStore. Flags `-` with `K` ensures data are not corrupted, `P` provide feedback, `b` bulk transfer, `v` verbose, `r` recursive through entire folder )
 @[5](`put` files onto the DataStore.)
-
 
 ---
 
