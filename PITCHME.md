@@ -184,13 +184,6 @@ A workbench allows you to:
 
 +++
 
-- GUI via the [Discovery Environment](https://de.cyverse.org)
-- Multi-threaded file transfer ([iRODS](https://irods.org/))
-- Mountable as a local file directory via FUSE
-- Extendable API for developers via _*Agave*_
-
-+++
-
 - All new users receive 100 GB 
 - Increase to 10 TB via portal request.
 - \>10 TB available upon written request + executive review.
@@ -202,6 +195,25 @@ Despite hosting several petabytes of data storage, CyVerse *is not* a canonical 
 +++
 
 CyVerse *is* a place you can bring large quantities of data and do analysis on, generate more result data, and hold for a short period (e.g. 6 months to 1 year), before moving those data to a canonical or privately hosted repository.
+
++++
+
+#### Moving data onto and off the Data Store
+
++++
+
+- CyVerse uses a system called [iRODS](https://irods.org/)
+  - Multi-threaded file transfer 
+- GUI via the [Discovery Environment](https://de.cyverse.org)
+- Mountable as a local file directory via FUSE
+- Extendable API for developers via _*Agave*_
+
++++
+
+[CyberDuck]()
+
++++
+
 
 ---
 
@@ -505,6 +517,17 @@ Done!
 @[7](Open the IP and port number in a new browser window)
 
 ---
+
+#### What about other file storage services?
+
++++
+
+* Google Drive FUSE Client: `google-drive-ocamlfuse`
+* Google Drive `Go` Client: `drive`
+
++++
+
+Coming Soon: [Syndicate]()
 
 #### Multi-container jobs with Makeflow
 
