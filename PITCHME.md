@@ -452,7 +452,6 @@ ArcGIS is the most widely used GIS software in the USA, ~40% of all users.
 
 --- 
 
-
 ## Demo
 
 +++
@@ -464,6 +463,14 @@ ArcGIS is the most widely used GIS software in the USA, ~40% of all users.
 +++
 
 #### Setting up Atmosphere instances as Data Science Workbenches
+
++++
+
+Create a new instance
+
+If you are planning to "image" the instance, select the smallest functional size.
+
+Install new software into `/opt` `/srv`
 
 +++
 
@@ -495,14 +502,12 @@ Done!
 ```shell
 $ ezj -3
 $ sudo chown $USER:iplant-everyone /home/anaconda -R
-$ ezj -R -3
 
 Done!
 ```
 
 @[1](Install Anaconda and Jupyter Notebooks w/ Python3 and R Kernel)
 @[2](Change ownership of the Anaconda directory so that you can install new kernels)
-
 
 ---
 
@@ -553,8 +558,8 @@ Done!
 @[2](change `sudo` privileges)
 @[3](exit and restart terminal window)
 @[4](pull the Rocker/Geospatial Rstudio-Server from DockerHub)
-@[5](Run the Container on port `:8787`)
-@[7](Open the IP and port number in a new browser window)
+@[5](Run the Container in detached mode `-d` on port `-p 8787:8787`)
+@[7](Open the Instance's IP address w/ port number in a new browser window)
 
 ---
 
@@ -562,14 +567,20 @@ Done!
 
 +++
 
-* Google Drive FUSE Client: `google-drive-ocamlfuse`
-* Google Drive `Go` Client: `drive`
+* Google Drive FUSE Client: [`google-drive-ocamlfuse`](https://github.com/astrada/google-drive-ocamlfuse)
+* Google Drive `Go` Client: [`drive`](https://github.com/odeke-em/drive)
+
+Coming Soon: [Syndicate](https://github.com/syndicate-storage)
+
+---
+
+#### Multi-container jobs with Makeflow
 
 +++
 
-Coming Soon: [Syndicate]()
+How do I scale my research to use hundreds to thousands of computers?
+<img src="https://raw.githubusercontent.com/cooperative-computing-lab/makeflow-examples/master/banner.png" width="800">
 
-#### Multi-container jobs with Makeflow
 
 +++
 
