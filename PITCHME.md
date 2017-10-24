@@ -129,16 +129,16 @@ Computing power and storage capacity are advancing at exponential rate
 
 +++
 
-<span style="font-size: 150%; color:#000000">_Okay, what is a Research Object?_</span>
+<span style="font-size: 150%; color:#000000">_Okay, what is a [Research Object](http://www.researchobject.org/)?_</span>
 
 @[1](<span style="font-size: 150%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>)
 
 +++
-
-The Research Object needs:
+"_Supporting the publication of *more than just PDFs*, making *data*, *code*, and other resources *first class citizens of scholarship*_"
+A [Research Object](http://www.researchobject.org/) needs:
 - Digital identity: DOI, [ORCID](http://orcid.org/)
-- Data aggregation: discoverable, reusable
-- Annotation & Provenance: METADATA!
+- is Discoverable & Reusable
+- Annotation & Provenance: *METADATA!*
 
 +++
 
@@ -210,7 +210,11 @@ CyVerse *is* a place you can bring large quantities of data and do analysis on, 
 
 +++
 
-[CyberDuck]()
+<img src="https://cdn.cyberduck.io/img/cyberduck-icon-384.png" height="250">
+
+#### [CyberDuck](https://cyberduck.io/)
+
+[Setting up CyberDuck with CyVerse DataStore](https://pods.iplantcollaborative.org/wiki/display/DS/Using+Cyberduck+for+Uploading+and+Downloading+to+the+Data+Store)
 
 +++
 
@@ -433,7 +437,7 @@ ArcGIS is the most widely used GIS software in the USA, ~40% of all users.
 --- 
 
 
-## Live Demo _*DANGER ZONE*_
+## Demo
 
 +++
 
@@ -467,6 +471,23 @@ Done!
 
 ---
 
+### <span style="color: #e49436">Anaconda and Jupyter Notebook</span>
+<br>
+
+```shell
+$ ezj -3
+$ sudo chown $USER:iplant-everyone /home/anaconda -R
+$ ezj -R -3
+
+Done!
+```
+
+@[1](Install Anaconda and Jupyter Notebooks w/ Python3 and R Kernel)
+@[2](Change ownership of the Anaconda directory so that you can install new kernels)
+
+
+---
+
 @title[ArcGIS Jupyter Notebook with Docker]
 
 ### <span style="color: #e49436">Docker + Jupyter + ArcPy</span>
@@ -475,6 +496,7 @@ Done!
 ```shell
 $ ezd
 $ usermod -aG docker $USER
+$ exit
 $ docker run -p 8888:8888 esridocker/arcgis-api-python-notebook
 
 Done!
@@ -483,9 +505,9 @@ Done!
 
 @[1](Install latest version of Docker using `EZ` installation)
 @[2](Add yourself to the Docker group on your VM so you can run without `sudo`)
-@[3](Pull the ArcGIS Jupyter Docker Container)
-@[4](The Jupyter notebook should now be running on the localhost - change `localhost` out for the VM's IP address)
-@[5](Start doing work!)
+@[3](exit and restart terminal)
+@[4](Pull the ArcGIS Jupyter Docker Container)
+@[6](The Jupyter notebook should now be running on the localhost - change `localhost` out for the VM's IP address)
 
 ---
 
