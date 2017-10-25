@@ -327,16 +327,13 @@ Develop new tools using Docker
 - annotation
 - metadata tagging
 
++++?image=assets/imagery/Operations_menu.png&size=90%
 
----?image=assets/imagery/Operations_menu.png&size=90%
++++?image=assets/imagery/BisQue_image_calibration.png&size=90%
 
----?image=assets/imagery/BisQue_image_calibration.png&size=90%
++++?image=assets/imagery/Image_size_bar.png&size=90%
 
----?image=assets/imagery/Image_size_bar.png&size=90%
-
----?image=assets/imagery/Canopy_coverage_counter.png&size=90%
-
-+++
++++?image=assets/imagery/Canopy_coverage_counter.png&size=90%
 
 #### Coming soon
 
@@ -452,7 +449,6 @@ A large open source GIS community exists and is growing.
 
 +++
 
-QGIS
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/2000px-QGIS_logo%2C_2017.svg.png" height="100">
 
 +++
