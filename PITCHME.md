@@ -334,7 +334,7 @@ Develop new tools using Docker
 
 ---?image=assets/imagery/Image_size_bar.png&size=90%
 
----?image=assets/imagery/Canopy_covere_counter.png&size=90%
+---?image=assets/imagery/Canopy_cover_counter.png&size=90%
 
 +++
 
