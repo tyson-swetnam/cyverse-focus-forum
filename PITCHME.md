@@ -349,11 +349,11 @@ Next week's webinar - [Getting Started with CyVerse](http://www.cyverse.org/blog
 
 +++
 
-#### different OS + third party software + frequent changes and updates + deployment and reproducibility issues = 
+*different OS + third party software + frequent changes and updates + deployment and reproducibility issues* = 
  
 <span style="font-weight: bold; font-size: 150%; color:#FF0000">_Dependency Hell_</span> <!-- .element: class="fragment" -->
 
-<img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" width="300"> <!-- .element: class="fragment" -->
+<img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" width="350"> <!-- .element: class="fragment" -->
 
 +++
 
@@ -363,25 +363,43 @@ Solution: Containerize your software, run anywhere.
 
 <img src="assets/imagery/vertical_large.png" height="200">
 
-Docker Hub
++++
+
+Why Containerize?
+
+- Dependencies can be wicked problems <!-- .element: class="fragment" -->
+- Compiling software is slow <!-- .element: class="fragment" -->
+- Reproducability is hard <!-- .element: class="fragment" -->
+- Portability <!-- .element: class="fragment" -->
 
 +++
 
-Unlike Docker, [Singularity](http://singularity.lbl.gov) has `root` privilege - allowing changes to containers on systems where the user has no `sudo` access
+#### Containers for HPC
 
 <img src="http://singularity.lbl.gov/images/logo/logo.svg" width="250">
 
-Singularity Hub
+[Singularity](http://singularity.lbl.gov)
+
 
 +++
 
-Want to learn more about Scientific Research with containers?
+- Shares _most_ of the host environment
+  - all mounted volumes
+- `root` privileges inside container
+  - install your own software on HPC!
+- Build your own image or use a Dockerfile
 
-Advanced Workshop hosted by CyVerse
 
-Feb 29 - March 2, 2018 (exact date TBA)
 
-University of Arizona, Tucson, AZ
++++
+
+#### Want to learn more about Scientific Research with containers?
+
+_Advanced Workshop hosted by CyVerse_
+
+Feb 29 - March 2, 2018 (exact dates TBA)
+
+Location: University of Arizona Tucson, AZ
 
 ---
 
@@ -389,7 +407,7 @@ University of Arizona, Tucson, AZ
 
 +++
 
-The majority of data (59%) include a spatial component or are themselves inherently spatial.
+The majority of data ([59%](http://www.tandfonline.com/doi/abs/10.1080/13658816.2012.743664)) include a spatial component or are themselves inherently spatial.
 
 +++
 
@@ -399,7 +417,7 @@ Environmental Systems Research Institute (ESRI), est. 1969
 
 +++
 
-ESRI has come to dominate the US GIS marketplace and is used widely by gov't and in academia.
+ESRI dominates the US GIS marketplace and is used widely by gov't and in academia.
 
 +++
 
@@ -410,22 +428,20 @@ Geographic Resources Analysis Support System (GRASS), est. 1982 by US Army Corps
 +++
 
 Open Source Geospatial Foundation (OSGEO)
+<img src="http://www.osgeo.org/sites/osgeo.org/files/osgeo_logo.png" height="100">
 
 +++
 
-A large open source community exists and is growing.
+A large open source GIS community exists and is growing.
 
 +++
 
 QGIS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/2000px-QGIS_logo%2C_2017.svg.png" height="100">
 
 +++
 
-PostGIS
-
-+++
-
-Boundless
+<img src="https://boundlessgeo.com/wp-content/uploads/2015/10/Boundless-logo-512-x-512.png" height="150">
 
 +++
 
