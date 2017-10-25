@@ -22,16 +22,103 @@ twitter: tswetnam
 ### Our Roadmap
 
 
-<span style="font-family: courier; color:#000000">Intro to CyVerse</span> <!-- .element: class="fragment" -->
-
 <span style="font-family: courier; color:#000000">Emergence of Data Science & The Research Object </span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">Data Scientist Workbench examples: RStudio & Project Jupyter </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#000000">Data Scientist Workbench examples </span> <!-- .element: class="fragment" -->
+
+<span style="font-family: courier; color:#000000">Intro to CyVerse</span> <!-- .element: class="fragment" -->
 
 <span style="font-family: courier; color:#000000">Containers & why you need them </span> <!-- .element: class="fragment" -->
 
 <span style="font-family: courier; color:#000000">GIS in cloud and on HPC: Live Demo!!! _*DANGER ZONE*_ </span> <!-- .element: class="fragment" -->
 
+---
+
+### What does <span style="font-weight: bold; color: #118224">large-scale</span> really mean in the era of <span style="color: #3685E3">_big data_</span>?
+
++++
+
+<span style="font-size: 150%; color:#000000">Data are always increasing in volume</span>
+
++++
+
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">90% </span><span style="font-size: 150%; color: #000000"> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)</span>
+
++++
+
+<span style="font-size: 150%; color:#000000">So, what qualifies as big data?</span>
+
+@[0](<span style="font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#3685E3">6</span></sup>?</span>)
+@[1](<span style="font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#0000FF">9</span></sup>?</span>)
+@[2](<span style="font-size: 250%; font-weight: bold; color:#0000A0">Terabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#0000A0">12</span></sup>?</span>)
+@[3](<span style="font-size: 250%; font-weight: bold; color:#800080">Petabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#800080">15</span></sup>?</span>)
+@[4](<span style="font-size: 250%; font-weight: bold; color:#00FF00">Exabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#00FF00">18</span></sup>?</span>)
+@[5](<span style="font-size: 300%; font-weight: bold; color:#FF0000">data are just data</span>)
+
++++
+
+Computing power and storage capacity are advancing at exponential rate
+
++++?image=assets/imagery/Moores_Law_over_120_Years.png&size=contain
+
+<span style="color:#3685E3"> last 5 are all GPUs </span> 
+
++++
+
+### The Research Object
+
++++
+
+<span style="font-size: 150%; color:#000000">Okay, what is a [Research Object](http://www.researchobject.org/)?</span>
+
+@[1](<span style="font-size: 150%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>)
+
++++
+"_Supporting the publication of *more than just PDFs*, making *data*, *code*, and other resources *first class citizens of scholarship*_"
+
+[Research Object](http://www.researchobject.org/) have:
+- Digital identity: DOI, [ORCID](http://orcid.org/) <!-- .element: class="fragment" -->
+- Annotation & Provenance: *METADATA!* <!-- .element: class="fragment" -->
+- Most importantly: they are discoverable & reusable <!-- .element: class="fragment" -->
+
++++
+
+CyVerse covers the entire life cycle of the Research Object:
+
+- Create
+- Analyze
+- Annotate
+- Publish
+- Archive
+
+---
+
+### Data Science Workbenches
+
++++
+
+#### Data scientists need a place to work...
+
++++
+
+A workbench allows you to:
+- work in preferred environment, languages, and libraries <!-- .element: class="fragment" -->
+- computational notebooks written in Python, R, Spark, etc. <!-- .element: class="fragment" -->
+
++++
+
+Popular Data Scientist software
+
++++
+
+<img src="assets/imagery/Python_logo_and_wordmark.svg.png" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
+<img src="http://mybinder.org/assets/images/logo.svg" height="150">
+
++++
+
+<img src="assets/imagery/Rlogonew.png" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
+
+---
 ---
 
 ### What is [CyVerse](http://cyverse.org)? 
@@ -92,90 +179,8 @@ In this talk I'll cover a few skill levels
 
 - Interest in integrating global and national datasets across HPC environments for massively parallel computing <!-- .element: class="fragment" -->
 
----
 
-### What does <span style="font-weight: bold; color: #118224">large-scale</span> really mean in the era of <span style="color: #3685E3">_big data_</span>?
-
-+++
-
-<span style="font-size: 150%; color:#000000">Data are always increasing in volume</span>
-
-+++
-
-<span style="font-weight: bold; font-size: 150%; color:#FF0000">90% </span><span style="font-size: 150%; color: #000000"> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)</span>
-
-+++
-
-<span style="font-size: 150%; color:#000000">So, what qualifies as big data?</span>
-
-@[0](<span style="font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#3685E3">6</span></sup>?</span>)
-@[1](<span style="font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#0000FF">9</span></sup>?</span>)
-@[2](<span style="font-size: 250%; font-weight: bold; color:#0000A0">Terabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#0000A0">12</span></sup>?</span>)
-@[3](<span style="font-size: 250%; font-weight: bold; color:#800080">Petabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#800080">15</span></sup>?</span>)
-@[4](<span style="font-size: 250%; font-weight: bold; color:#00FF00">Exabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#00FF00">18</span></sup>?</span>)
-@[5](<span style="font-size: 300%; font-weight: bold; color:#FF0000">data are just data</span>)
-
-+++
-
-Computing power and storage capacity are advancing at exponential rate
-
-+++?image=assets/imagery/Moores_Law_over_120_Years.png&size=contain
-
-<span style="color:#3685E3"> last 5 are all GPUs </span> 
-
-+++
-
-### The Research Object
-
-+++
-
-<span style="font-size: 150%; color:#000000">_Okay, what is a [Research Object](http://www.researchobject.org/)?_</span>
-
-@[1](<span style="font-size: 150%; font-weight: bold; color:#3685E3">broadly, it is a method for identification, aggregation, and exchange of scholarly information</span>)
-
-+++
-"_Supporting the publication of *more than just PDFs*, making *data*, *code*, and other resources *first class citizens of scholarship*_"
-A [Research Object](http://www.researchobject.org/) needs:
-- Digital identity: DOI, [ORCID](http://orcid.org/)
-- is Discoverable & Reusable
-- Annotation & Provenance: *METADATA!*
-
-+++
-
-CyVerse covers the entire life cycle of the Research Object:
-
-- Create
-- Analyze
-- Annotate
-- Publish
-- Archive
-
----
-
-### Data Science Workbenches
-
-+++
-
-Data scientists need a place to work...
-
-+++
-
-### data + compute + algorithm
-
-+++
-
-A workbench allows you to:
-- work in preferred environment, languages, and libraries
-- computational notebooks written in Python, R, Spark, etc...
-
-+++
-
-<img src="assets/imagery/Python_logo_and_wordmark.svg.png" height="150"> <img src="http://jupyter.org/assets/hublogo.svg" height="150">
-<img src="http://mybinder.org/assets/images/logo.svg" height="150">
-
-+++
-
-<img src="assets/imagery/Rlogonew.png" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
+## What does CyVerse offer a data scientist?
 
 ---
 
