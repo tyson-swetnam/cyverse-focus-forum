@@ -184,6 +184,8 @@ In this talk I'll cover a few skill levels
 
 ## What does CyVerse offer today's data scientist?
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Scholars_attending_a_lecture_in_the_Ashmolean_Museum%2C_Oxford_Wellcome_V0006732.jpg/1009px-Scholars_attending_a_lecture_in_the_Ashmolean_Museum%2C_Oxford_Wellcome_V0006732.jpg" height="600")
+
 ---
 
 ### DataStore 
