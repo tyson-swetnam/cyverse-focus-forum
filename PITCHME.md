@@ -122,7 +122,6 @@ Popular Data Scientist software
 <img src="assets/imagery/Rlogonew.png" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
 
 ---
----
 
 ### What is [CyVerse](http://cyverse.org)? 
 ![cyverse](assets/imagery/cyverse_logo_150px.png)
@@ -176,7 +175,6 @@ In this talk I'll cover a few skill levels
 - Need to move significant amounts of data around networks <!-- .element: class="fragment" -->
 
 +++
-
 
 <span style="font-weight: bold; font-size: 150%; color:#800080">Power users</span>
 
