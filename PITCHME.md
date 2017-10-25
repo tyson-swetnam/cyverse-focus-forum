@@ -328,13 +328,13 @@ Develop new tools using Docker
 - metadata tagging
 
 
----?image=assets/imagery/Operations_menu.png&size=auto
+---?image=assets/imagery/Operations_menu.png&size=90%
 
----?image=assets/imagery/BisQue_image_calibration.png&size=auto
+---?image=assets/imagery/BisQue_image_calibration.png&size=90%
 
----?image=assets/imagery/Image_size_bar.png&size=auto
+---?image=assets/imagery/Image_size_bar.png&size=90%
 
----?image=assets/imagery/Canopy_covere_counter.png&size=auto
+---?image=assets/imagery/Canopy_covere_counter.png&size=90%
 
 +++
 
