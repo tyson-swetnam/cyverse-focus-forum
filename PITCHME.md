@@ -78,9 +78,9 @@ Computing power and storage capacity are advancing at exponential rate
 
 [Research Objects](http://www.researchobject.org/) have:
 
-- Digital identity: DOI or [ORCID](http://orcid.org/) <!-- .element: class="fragment" -->
+- Digital identity: DOI, <!-- .element: class="fragment" --> [ORCID](http://orcid.org/) <!-- .element: class="fragment" -->
 
-- Annotation & Provenance: *METADATA!* <!-- .element: class="fragment" -->
+- Annotation & Provenance <!-- .element: class="fragment" --> *METADATA!* <!-- .element: class="fragment" -->
 
 - Most importantly: they are discoverable & reusable <!-- .element: class="fragment" -->
 
