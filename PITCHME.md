@@ -201,7 +201,7 @@ Despite hosting several petabytes of data storage, CyVerse *is not* a canonical 
 
 +++
 
-CyVerse *is* a place you can bring large quantities of data and do analysis on, generate more result data, and hold for a short period (e.g. 6 months to 1 year), before moving those data to a canonical or privately hosted repository.
+CyVerse *is* a place you can bring large quantities of data and do an analysis, generate more results data, and stage for a brief period (e.g. 6 months to 2 years), before moving those data to canonical or privately hosted repositories.
 
 +++
 
