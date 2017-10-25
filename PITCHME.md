@@ -309,8 +309,21 @@ Both identifiers are issued by CyVerse through the California Digital Library's 
 
 +++
 
-Develop new tools using Docker
+<img src="http://www.cyverse.org/sites/default/files/DE-website-Mar2015.png" width="400">
+
+- Easily add any command-line tool or any executable into the tool list,
+- create or edit a new customized interface for the app or create a sequenced workflow by chaining one app to another in automated workflow.
+- Use application programming interfaces (APIs) for tool integration, resource-intensive analyses, or workflow building.
+- Use the same login for all CyVerse resources.
+
++++
+
 <img src="assets/imagery/horizontal_large.png" width="200">
+
+Bring your own tools to the Discovery Environment
+<img src="https://f1000researchdata.s3.amazonaws.com/manuscripts/9614/e8fc9784-bed0-46bd-abc4-e070165a0c78_figure2.gif" height="400">
+
+[Devisetty et al. 2016](https://f1000research.com/articles/5-1442/v1)
 
 ---
 
@@ -334,6 +347,8 @@ Develop new tools using Docker
 +++?image=assets/imagery/Image_size_bar.png&size=90%
 
 +++?image=assets/imagery/Canopy_coverage_counter.png&size=90%
+
++++
 
 #### Coming soon
 
