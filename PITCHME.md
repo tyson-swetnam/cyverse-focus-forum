@@ -503,17 +503,16 @@ Install new software into `/opt` `/srv`
 <br>
 
 ```shell
-$ ezs
+$ ez
 $ ezd
+$ ezs
 $ ezj -R -3
-
-Done!
 ```
 
-@[1](Install latest version of Singularity.)
+@[1](View option menu for `ez`)
 @[2](Install latest version of Docker)
-@[3](Install Anaconda and Jupyter Notebooks w/ Python3 and R Kernel)
-@[5](Start doing work!)
+@[3](Install latest version of Singularity)
+@[4](Install Anaconda and Jupyter Notebooks w/ Python3 and the R Kernel)
 
 ---
 
@@ -531,6 +530,7 @@ Done!
 
 @[1](Install Anaconda and Jupyter Notebooks w/ Python3 and R Kernel)
 @[2](Change ownership of the Anaconda directory so that you can install new kernels)
+@[4](Open Jupyter via provided URL w/ token)
 
 ---
 
@@ -543,7 +543,7 @@ Done!
 $ ezd
 $ usermod -aG docker $USER
 $ exit
-$ docker run -p 8888:8888 esridocker/arcgis-api-python-notebook
+$ docker run -it -p 8888:8888 esridocker/arcgis-api-python-notebook
 
 Done!
 
