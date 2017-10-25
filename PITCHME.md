@@ -317,13 +317,11 @@ Both identifiers are issued by CyVerse through the California Digital Library's 
 
 +++
 
-<img src="assets/imagery/horizontal_large.png" width="200">
-
 Bring your own tools to the Discovery Environment
 
 <img src="https://f1000researchdata.s3.amazonaws.com/manuscripts/9614/e8fc9784-bed0-46bd-abc4-e070165a0c78_figure2.gif" height="400">
 
-[Devisetty et al. 2016](https://f1000research.com/articles/5-1442/v1)
+[Devisetty et al. 2016](https://f1000research.com/articles/5-1442/v1) <img src="assets/imagery/horizontal_large.png" width="200">
 
 ---
 
