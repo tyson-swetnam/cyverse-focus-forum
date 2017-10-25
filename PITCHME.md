@@ -63,7 +63,7 @@ Computing power and storage capacity are advancing at exponential rate
 
 <span style="color:#3685E3"> last 5 are all GPUs </span> 
 
-+++
+---
 
 ### The Research Object
 
