@@ -329,6 +329,22 @@ Develop new tools using Docker
 
 +++
 
+---?image=assets/imagery/Operations_menu.png&size=auto
+
++++
+
+---?image=assets/imagery/BisQue_image_calibration.png&size=auto
+
++++
+
+---?image=assets/imagery/Image_size_bar.png&size=auto
+
++++
+
+---?image=assets/imagery/Canopy_covere_counter.png&size=auto
+
++++
+
 #### Coming soon
 
 +++
