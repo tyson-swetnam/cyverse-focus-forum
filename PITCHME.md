@@ -65,7 +65,7 @@ Computing power and storage capacity are advancing at exponential rate
 
 ---
 
-### The Research Object
+## The Research Object
 
 +++
 
@@ -125,7 +125,7 @@ Popular Data Science Software
 
 ---
 
-### What is [CyVerse](http://cyverse.org)? 
+## What is [CyVerse](http://cyverse.org)? 
 ![cyverse](assets/imagery/cyverse_logo_150px.png)
 
 +++
@@ -184,13 +184,13 @@ In this talk I'll cover a few skill levels
 
 ---
 
-#### What does CyVerse offer today's data scientist?
+### What does CyVerse offer today's data scientist?
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Scholars_attending_a_lecture_in_the_Ashmolean_Museum%2C_Oxford_Wellcome_V0006732.jpg" height="600">
 
 ---
 
-### DataStore 
+## DataStore 
 ![ds](assets/imagery/DataStore_blue.png)
 
 +++
@@ -209,7 +209,7 @@ CyVerse *is* a place you can bring large quantities of data and do an analysis, 
 
 +++
 
-#### Data Store upload/download
+### Data Store upload/download
 
 +++
 
@@ -221,7 +221,7 @@ CyVerse *is* a place you can bring large quantities of data and do an analysis, 
 
 +++
 
-#### [CyberDuck](https://cyberduck.io/)
+### [CyberDuck](https://cyberduck.io/)
 
 <img src="https://cdn.cyberduck.io/img/cyberduck-icon-384.png" height="250">
 
@@ -248,7 +248,7 @@ $ iput -KPrv ~/home/$USER/Documents/rstudio_demo.rmd /iplant/home/tyson_swetnam/
 
 ---
 
-### [Atmosphere](https://cyverse.org/atmosphere)
+## [Atmosphere](https://cyverse.org/atmosphere)
 ![atmo](assets/imagery/Atmosphere_Blue.png)
 
 +++
@@ -288,7 +288,7 @@ Atmosphere proved to be very popular...
 
 ---
 
-### [Data Commons](https://dc.cyverse.org)
+## [Data Commons](https://dc.cyverse.org)
 <img src="assets/imagery/DataCommons_Blue.png" width="150">
 
 +++
@@ -308,7 +308,7 @@ Both identifiers are issued by CyVerse through the California Digital Library's 
 
 ---
 
-### [Discovery Environment](https://de.cyverse.org)
+## [Discovery Environment](https://de.cyverse.org)
 ![de](assets/imagery/Discovery_blue.png)
 
 +++
@@ -375,7 +375,7 @@ Next week's webinar - [Getting Started with CyVerse](http://www.cyverse.org/blog
 
 ---
 
-### Containers
+## Containers
 
 +++
 
@@ -404,7 +404,7 @@ Why Containerize?
 
 +++
 
-#### Containers for HPC
+## Containers for HPC
 
 <img src="http://singularity.lbl.gov/images/logo/logo.svg" width="250">
 
@@ -433,7 +433,7 @@ Location: University of Arizona Tucson, AZ
 
 ---
 
-### GIS
+## GIS
 
 +++
 
@@ -619,7 +619,7 @@ Coming Soon: [Syndicate](https://github.com/syndicate-storage)
 
 ---
 
-#### Multi-container jobs with Makeflow
+## Multi-container jobs with Makeflow
 
 +++
 
