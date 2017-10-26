@@ -82,7 +82,7 @@ Computing power and storage capacity are advancing at exponential rate
 
 - Annotation & Provenance <!-- .element: class="fragment" --> *METADATA!* <!-- .element: class="fragment" -->
 
-- Most importantly: they are discoverable & reusable <!-- .element: class="fragment" -->
+Most importantly: they are discoverable & reusable <!-- .element: class="fragment" -->
 
 +++
 
