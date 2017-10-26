@@ -22,15 +22,15 @@ twitter: tswetnam
 ### Our Roadmap
 
 
-<span style="font-family: courier; color:#000000">Emergence of Data Science & The Research Object </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#ffffff">Emergence of Data Science & The Research Object </span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">Data Scientist Workbench examples </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#ffffff">Data Scientist Workbench examples </span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">Intro to CyVerse</span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#ffffff">Intro to CyVerse</span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">Containers & why you need them </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#ffffff">Containers & why you need them </span> <!-- .element: class="fragment" -->
 
-<span style="font-family: courier; color:#000000">GIS in cloud and on HPC: Live Demo!!! _*DANGER ZONE*_ </span> <!-- .element: class="fragment" -->
+<span style="font-family: courier; color:#ffffff">GIS in cloud and on HPC: Live Demo!!! _*DANGER ZONE*_ </span> <!-- .element: class="fragment" -->
 
 ---
 
@@ -488,9 +488,9 @@ ArcGIS is the most widely used GIS software in the USA, ~40% of all users.
 
 [ArcGIS Portal 10.5](http://server.arcgis.com/en/portal/latest/install/linux/welcome-to-the-portal-for-arcgis-installation-guide.htm) runs in Linux
 
-- install on Atmosphere / Jetstream instances using Chef
+- install on Atmosphere / Jetstream instances using [Chef](https://github.com/Esri/arcgis-cookbook)
  - must use license keys issued via your institution
-- Integrated with Docker and [Project Jupyter](https://hub.docker.com/r/esridocker/arcgis-api-python-notebook/) 
+- Integrated with [Docker and Project Jupyter](https://hub.docker.com/r/esridocker/arcgis-api-python-notebook/) 
  - run notebooks with ArcPy and the ArcGIS API to do big data applications 
 
 --- 
