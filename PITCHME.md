@@ -543,7 +543,7 @@ $ ezj -R -3
 
 ```shell
 $ ezj -3
-$ sudo chown $USER:iplant-everyone /home/anaconda -R
+$ sudo chown $USER:iplant-everyone /home/anaconda3 -R
 
 Done!
 ```
