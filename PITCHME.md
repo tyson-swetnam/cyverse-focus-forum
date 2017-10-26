@@ -605,7 +605,7 @@ Done!
 
 +++
 
-![rstudio](https://youtu.be/8LSZqWpLbok)
+![Video](https://youtu.be/8LSZqWpLbok)
 
 ---
 
