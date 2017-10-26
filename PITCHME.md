@@ -605,7 +605,7 @@ Done!
 
 +++
 
-![Video](https://youtu.be/8LSZqWpLbok)
+![Video](https://www.youtube.com/embed/8LSZqWpLbok)
 
 ---
 
