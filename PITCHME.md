@@ -410,7 +410,6 @@ Why Containerize?
 
 [Singularity](http://singularity.lbl.gov)
 
-
 +++
 
 - Shares _most_ of the host environment
@@ -418,8 +417,6 @@ Why Containerize?
 - `root` privileges inside container
   - install your own software on HPC!
 - Build your own image or use a Dockerfile
-
-
 
 +++
 
@@ -606,6 +603,10 @@ Done!
 @[5](Run the Container in detached mode `-d` on port `-p 8787:8787`)
 @[7](Open the Instance's IP address w/ port number in a new browser window)
 
++++
+
+![rstudio](https://youtu.be/8LSZqWpLbok)
+
 ---
 
 #### What about other file storage services?
@@ -625,9 +626,6 @@ Coming Soon: [Syndicate](https://github.com/syndicate-storage)
 
 How do I scale my research to use hundreds to thousands of computers?
 <img src="https://raw.githubusercontent.com/cooperative-computing-lab/makeflow-examples/master/banner.png" width="800">
-
-
-+++
 
 +++?image=assets/imagery/eemt_github.PNG&size=auto 95%
 
