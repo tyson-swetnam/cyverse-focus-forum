@@ -38,15 +38,15 @@ twitter: tswetnam
 
 +++
 
-<span style="font-size: 150%; color:#000000">Data are always increasing in volume</span>
+<span style="font-size: 150%; color:#ffffff">Data are always increasing in volume</span>
 
 +++
 
-<span style="font-weight: bold; font-size: 150%; color:#FF0000">90% </span><span style="font-size: 150%; color: #000000"> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)</span>
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">90% </span><span style="font-size: 150%; color: #ffffff"> of all data in human history were created in [last 24 months](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)</span>
 
 +++
 
-<span style="font-size: 150%; color:#000000">So, what qualifies as big data?</span>
+<span style="font-size: 150%; color:#ffffff">So, what qualifies as big data?</span>
 
 @[0](<span style="font-size: 250%; font-weight: bold; color:#3685E3">Megabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#3685E3">6</span></sup>?</span>)
 @[1](<span style="font-size: 250%; font-weight: bold; color:#0000FF">Gigabyte 10<sup><span style="font-size: 75%; font-weight: bold; color:#0000FF">9</span></sup>?</span>)
