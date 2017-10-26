@@ -275,9 +275,9 @@ Atmosphere proved to be very popular...
 
 ...so we built
 
-<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width="700">
+<img src="assets/imagery/Jetstream_logo_hi_res_cropped.jpg" width="600">
 
-+++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=auto
++++?image=/assets/imagery/Jetstream_topology_diagram-crop.png&size=95%
 
 +++
 
