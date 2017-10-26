@@ -106,9 +106,9 @@ CyVerse covers the entire life cycle of the Research Object:
 
 +++
 
-The workbench allows you to:
-- work in preferred environment, languages, and libraries <!-- .element: class="fragment" -->
-- computational notebooks written in Python, R, Spark, etc. <!-- .element: class="fragment" -->
+A workbench allows you to:
+- Work in your preferred environment, languages, and libraries <!-- .element: class="fragment" -->
+- Write in computational notebooks in Python, R, Spark, etc. <!-- .element: class="fragment" -->
 
 +++
 
