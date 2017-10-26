@@ -96,21 +96,23 @@ CyVerse covers the entire life cycle of the Research Object:
 
 ---
 
-### Data Science Workbenches
+## Data Science "Workbenches"
 
 +++
 
-#### Data scientists need a place to work...
+## Data scientists need a place to work...
+
+<img src="https://21stcenturyrenaissanceprintmaker.files.wordpress.com/2014/04/nova-reperta-with-letters.png" height="400">
 
 +++
 
-A workbench allows you to:
+The workbench allows you to:
 - work in preferred environment, languages, and libraries <!-- .element: class="fragment" -->
 - computational notebooks written in Python, R, Spark, etc. <!-- .element: class="fragment" -->
 
 +++
 
-Popular Data Scientist software
+Popular Data Science Software
 
 +++
 
