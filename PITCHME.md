@@ -21,7 +21,6 @@ twitter: tswetnam
 
 ### Our Roadmap
 
-
 <span style="font-family: courier; color:#ffffff">Emergence of Data Science & The Research Object </span> <!-- .element: class="fragment" -->
 
 <span style="font-family: courier; color:#ffffff">Data Scientist Workbench examples </span> <!-- .element: class="fragment" -->
@@ -31,6 +30,32 @@ twitter: tswetnam
 <span style="font-family: courier; color:#ffffff">Containers & why you need them </span> <!-- .element: class="fragment" -->
 
 <span style="font-family: courier; color:#ffffff">GIS in cloud and on HPC: Live Demo!!! _*DANGER ZONE*_ </span> <!-- .element: class="fragment" -->
+
+---
+
+## By Skill Level
+
++++
+
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">New users</span>
+
+- Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools <!-- .element: class="fragment" -->
+  
+  - Maybe just learning spatial analyses for the first time <!-- .element: class="fragment" -->
+
++++
+
+<span style="font-weight: bold; font-size: 150%; color:#0000A0">Experienced users</span>
+
+- Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud <!-- .element: class="fragment" -->
+
+- Need to move significant amounts of data around networks <!-- .element: class="fragment" -->
+
++++
+
+<span style="font-weight: bold; font-size: 150%; color:#800080">Power users</span>
+
+- Interest in integrating global and national datasets across HPC environments for massively parallel computing <!-- .element: class="fragment" -->
 
 ---
 
@@ -106,9 +131,12 @@ CyVerse covers the entire life cycle of the Research Object:
 
 +++
 
-A workbench allows you to:
+A data science workbench allows you to:
+
 - Work in your preferred environment, languages, and libraries <!-- .element: class="fragment" -->
-- Write in computational notebooks in Python, R, Spark, etc. <!-- .element: class="fragment" -->
+- Select the tools you want to use
+- Write in a computational notebook  <!-- .element: class="fragment" -->
+  - Python, R, C++, Matlab, Spark, etc. <!-- .element: class="fragment" -->
 
 +++
 
@@ -127,6 +155,12 @@ Popular Data Science Software
 
 ## What is [CyVerse](http://cyverse.org)? 
 ![cyverse](assets/imagery/cyverse_logo_150px.png)
+
++++
+
+Started 2008 as the iPlant Collaborative, renewed by NSF 2013, rebranded 2016
+
+<img src="https://www2.cs.arizona.edu/news/articles/images/200801-iplant.jpg" height="150"> <img src="http://blog.illumina.com/img/iplant.jpg" height="150"> (img src="http://www.cyverse.org/sites/default/files/cyverse_rgb.png" height="150">
 
 +++
 
@@ -155,34 +189,6 @@ When scientists start using CyVerse <span style="font-weight: bold; color: #3685
 Develop your tools, workflows, and datasets
 
 <img src="http://insidethegem.com/wp-content/uploads/organic-logo.png" height="150"> <img src="http://cstaab.com/wp-content/uploads/cpp_java_python.png" height="150"> <img src="https://pbs.twimg.com/profile_images/662507863516905472/7piKPHHv_400x400.jpg" height="150"> 
-
-+++
-
-In this talk I'll cover a few skill levels
-
-+++
-
-<span style="font-weight: bold; font-size: 150%; color:#FF0000">New users</span>
-
-- Interest in Graphic User Interfaces (GUI) & Integrated Development Environment (IDE) tools <!-- .element: class="fragment" -->
-  
-  - Maybe just learning spatial analyses for the first time <!-- .element: class="fragment" -->
-
-+++
-
-<span style="font-weight: bold; font-size: 150%; color:#0000A0">Experienced users</span>
-
-- Interest in scaling workflows beyond the laptop / desktop on to HPC and Cloud <!-- .element: class="fragment" -->
-
-- Need to move significant amounts of data around networks <!-- .element: class="fragment" -->
-
-+++
-
-<span style="font-weight: bold; font-size: 150%; color:#800080">Power users</span>
-
-- Interest in integrating global and national datasets across HPC environments for massively parallel computing <!-- .element: class="fragment" -->
-
----
 
 ### What does CyVerse offer today's data scientist?
 
@@ -256,7 +262,7 @@ $ iput -KPrv ~/home/$USER/Documents/rstudio_demo.rmd /iplant/home/tyson_swetnam/
 - Linux environment (Centos, Ubuntu)
 - On demand
 - Collaborate together online
-- Publically host custom images
+- Publicly host custom images
 
 +++
 
@@ -303,7 +309,7 @@ Both identifiers are issued by CyVerse through the California Digital Library's 
 
 - Publish your notebooks 
 - datasets
- - Recieve a DOI
+ - Receive a DOI
  - Searchable
 
 ---
@@ -379,7 +385,7 @@ Next week's webinar - [Getting Started with CyVerse](http://www.cyverse.org/blog
 
 +++
 
-*different OS + third party software + frequent changes and updates + deployment and reproducibility issues* = 
+*different OS + third party software + frequent changes and updates + deployment issues* = 
  
 <span style="font-weight: bold; font-size: 150%; color:#FF0000">_Dependency Hell_</span> <!-- .element: class="fragment" -->
 
@@ -399,7 +405,7 @@ Why Containerize?
 
 - Dependencies can be wicked problems <!-- .element: class="fragment" -->
 - Compiling software is slow <!-- .element: class="fragment" -->
-- Reproducability is hard <!-- .element: class="fragment" -->
+- Reproducibility is hard <!-- .element: class="fragment" -->
 - Portability <!-- .element: class="fragment" -->
 
 +++
