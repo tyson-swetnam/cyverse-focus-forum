@@ -133,11 +133,11 @@ CyVerse covers the entire life cycle of the Research Object:
 
 A data science workbench allows you to:
 
-- Work in your preferred environment, languages, and libraries <!-- .element: class="fragment" -->
+- Work in your preferred environment, languages, and libraries 
 - Select the tools you want to use
-- Write in a computational notebook  <!-- .element: class="fragment" -->
-  - Python, R, C++, Matlab, Spark, etc. <!-- .element: class="fragment" -->
-
+- Write in a computational notebook  
+  - Python, R, C++, Matlab, Spark, etc. 
+  
 +++
 
 Popular Data Science Software
